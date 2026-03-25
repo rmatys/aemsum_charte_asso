@@ -1,6 +1,6 @@
 # aemsum_charte_asso
 
-CHARTE de l'Association des étudiants et étudiantes de Mathématiques et Statistique de l'Université de Montréal (AEMSUM).
+CHARTE de l'Association des étudiants de Mathématiques et Statistique de l'Université de Montréal (AEMSUM).
 
 TABLE DES MATIÈRES
 
@@ -26,13 +26,13 @@ CHAPITRE I : DISPOSITIONS GÉNÉRALES
 
 Article 1 : Nom
 
-Association des étudiants et étudiantes de Mathématiques et Statistique du premier cycle de l'Université de Montréal. Cette association s'est incorporée en
+Association des étudiants de Mathématiques et Statistique du premier cycle de l'Université de Montréal. Cette association s'est incorporée en
 
 1982 (en vertu de la troisième partie de la Loi sur les compagnies) et accréditée en 1983 (en vertu de l'article 59 de la Loi 32 sur l'accréditation et le financement des Associations étudiantes).
 
 Article 2 : Sigle
 
-L'abréviation A.E.M.S.U.M. est utilisée pour désigner l'Association des étudiants et étudiantes de Mathématiques et Statistique du premier cycle de l'Université de Montréal.
+L'abréviation A.E.M.S.U.M. est utilisée pour désigner l'Association des étudiants de Mathématiques et Statistique du premier cycle de l'Université de Montréal.
 
 Article 3 : Siège social
 
@@ -67,11 +67,11 @@ Article 7 : Cotisation
 
 - La cotisation de chaque membre est de 25 \$ par session. Elle est non remboursable. Une somme de 2\$ de la cotisation de chacun des membres est réservée au Comité L'Axiomatique;
 
-- Toute modification à la cotisation devra être approuvée par voie référendaire ou lors d'assemblée générale. Les modalités d'un référendum sont définies par l'article 26 de la présente charte.
+- Toute modification à la cotisation devra être approuvée par voie référendaire ou lors d'assemblée générale. Les modalités d'un référendum sont définies par l'article 27 de la présente charte.
 
 Article 8 : Affiliation
 
-L'A.E.M.S.U.M. est affiliée à la Fédération des Associations étudiantes du Campus de l'Université de Montréal. L'affiliation ou la désaffiliation de l'A.E.M.S.U.M. à toute fédération ou tout regroupement est décidée par voie référendaire. Les modalités d'un référendum sont définies par l'article 26 de la présente charte.
+L'A.E.M.S.U.M. est affiliée à la Fédération des Associations étudiantes du Campus de l'Université de Montréal. L'affiliation ou la désaffiliation de l'A.E.M.S.U.M. à toute fédération ou tout regroupement est décidée par voie référendaire. Les modalités d'un référendum sont définies par l'article 27 de la présente charte.
 
 Article 9 : Modification de la charte
 
@@ -79,7 +79,7 @@ L'assemblée générale seule peut décider d'amender la présente charte par un
 
 Article 10 : Dissolution de l'A.E.M.S.U.M.
 
-- La dissolution de l'A.E.M.S.U.M. est décidée par voie référendaire. Les modalités d'un référendum sont définies par l'article 26 de la présente charte;
+- La dissolution de l'A.E.M.S.U.M. est décidée par voie référendaire. Les modalités d'un référendum sont définies par l'article 27 de la présente charte;
 
 - Le dernier mandat du conseil exécutif sera alors de liquider les biens de l'A.E.M.S.U.M.;
 
@@ -89,51 +89,55 @@ Article 11 : Code de procédure
 
 Le code de procédure pour les assemblées générales et le conseil exécutif est le code de l'Espérance, code utilisé par la majorité des assemblées de l'Université de Montréal.
 
+Article 12 : Écriture inclusive
+
+Dans la présente charte, les termes « membre », « étudiant », « représentant » et autres formes au masculin sont utilisés à titre épicène afin d'alléger le texte. Ils désignent les personnes de tous genres sans distinction. L'A.E.M.S.U.M. s'engage à l'égalité de genre et à l'inclusivité pour l'ensemble de ses membres.
+
 CHAPITRE II : ASSEMBLÉES DES MEMBRES
 
-Article 12 : Assemblée générale
+Article 13 : Assemblée générale
 
-L'assemblée générale est souveraine, dans la limite de ses pouvoirs, à l'exception des mesures définies aux articles 10 et 41 de la présente charte.
+L'assemblée générale est souveraine, dans la limite de ses pouvoirs, à l'exception des mesures définies aux articles 10 et 42 de la présente charte.
 
-Article 13 : Assemblée générale annuelle
+Article 14 : Assemblée générale annuelle
 
 - L'assemblée générale annuelle des membres de l'A.E.M.S.U.M. aura lieu à la date que le conseil exécutif fixera chaque année;
 
 - L'assemblée générale annuelle doit présenter les états financiers de l'exercice qui se termine;
 
-- L'assemblée générale annuelle doit élire les neuf (9) membres 2e et 3e année du conseil exécutif. Les modalités d'élection sont définies aux articles 21 et 23 de la présente charte;
+- L'assemblée générale annuelle doit élire les neuf (9) membres 2e et 3e année du conseil exécutif. Les modalités d'élection sont définies aux articles 22 et 24 de la présente charte;
 
-- L'assemblée générale annuelle doit élire les sept (7) représentants de l'A.E.M.S.U.M. à l'assemblée départementale. Les modalités d'élection sont définies aux articles 21 et 24 de la présente charte;
+- L'assemblée générale annuelle doit élire les sept (7) représentants de l'A.E.M.S.U.M. à l'assemblée départementale. Les modalités d'élection sont définies aux articles 22 et 25 de la présente charte;
 
 - L'assemblée générale annuelle doit former un comité d'activités d'accueil. Les modalités de ce comité sont définies par la section 3 du chapitre VI de la présente charte;
 
 - L'assemblée générale annuelle peut statuer sur toute question qu'elle juge à propos;
 - Lors de cette assemblée générale, on considère l'année à laquelle les gens seront à l'automne suivant.
 
-Article 14 : Assemblée générale d'automne
+Article 15 : Assemblée générale d'automne
 
 - L'assemblée générale d'automne des membres de l'A.E.M.S.U.M. aura lieu à la date que le conseil exécutif fixera chaque année. Cette assemblée doit se tenir entre la 2 et la 4 semaine de la session d'automne;
 
 - L'assemblée générale d'automne doit adopter les états financiers de l'exercice terminé;
 
-- L'assemblée générale d'automne doit élire les six (6) membres 1re année du conseil exécutif. Les modalités d'élection sont définies aux articles 21 et 23 de la présente charte;
+- L'assemblée générale d'automne doit élire les six (6) membres 1re année du conseil exécutif. Les modalités d'élection sont définies aux articles 22 et 24 de la présente charte;
 - L'assemblée générale d'automne doit former un comité des finissants. Les modalités de ce comité sont définies par la section 2 du chapitre VI de la présente charte;
 
 - L'assemblée générale automnale peut statuer sur toute question qu'elle juge
 
 à propos.
 
-Article 15 : Assemblée générale spéciale
+Article 16 : Assemblée générale spéciale
 
 - L'assemblée générale spéciale peut être convoquée en tout temps par le conseil exécutif ou suite à une demande signée et présentée au conseil exécutif soit par 25 membres, soit par 10 % des membres (le plus petit des deux);
 
 - L'assemblée générale spéciale peut statuer sur toute question qu'elle juge à propos.
 
-Article 16 : Avis de convocation
+Article 17 : Avis de convocation
 
 Toute assemblée générale ordinaire devra être annoncée au babillard au moins dix (10) jours ouvrables avant la tenue de ladite assemblée. Toute assemblée générale spéciale devra être annoncée au babillard au moins cinq (5) jours ouvrables avant la tenue de ladite assemblée. De plus, l'ordre du jour de celle-ci doit être disponible dans les mêmes délais.
 
-Article 17 : Quorum
+Article 18 : Quorum
 
 - Le quorum est fixé à soit trente (30) membres, soit 10 % des membres (le plus petit des deux);
 
@@ -141,13 +145,13 @@ Article 17 : Quorum
 
 - Les procurations ne comptent pas dans le quorum.
 
-Article 18 : Droits de vote, de parole et de proposition
+Article 19 : Droits de vote, de parole et de proposition
 
 - Tous les membres de l'A.E.M.S.U.M. ayant payé leur cotisation étudiante ont droit de vote, de parole et de proposition;
 
 - Les membres ne pouvant pas être présent à l'Assemblée Générale pour cause d'un stage, d'un échange ou d'une charge de travaux pratiques peuvent faire un vote par procuration. La personne qui vote par procuration doit fournir un papier signé autorisant le mandataire à voter en son nom et la personne qui donne son vote doit en aviser un membre du conseil exécutif avant le jour de l'assemblée générale;
 
-- Dans le cas d'une demande de procuration pour une raison non spécifiée dans l'article 18 b, l'étudiant désirant être représenté doit faire une demande en personne à un membre du conseil l'exécutif entre 5 jours avant et la veille de l'assemblée générale. Le conseil exécutif se réunira avant l'assemblée générale dans le but de valider les demandes;
+- Dans le cas d'une demande de procuration pour une raison non spécifiée dans l'article 19 b, l'étudiant désirant être représenté doit faire une demande en personne à un membre du conseil l'exécutif entre 5 jours avant et la veille de l'assemblée générale. Le conseil exécutif se réunira avant l'assemblée générale dans le but de valider les demandes;
 
 - Le président doit être averti de toute procuration avant l'ouverture de l'assemblée générale;
 
@@ -157,17 +161,17 @@ Article 18 : Droits de vote, de parole et de proposition
 
 - Le président et le secrétaire de l'assemblée n'ont ni droit de vote, ni droit de proposition. Ils sont limités dans leurs interventions à ce qui est défini dans le code de procédure prescrit à l'article 11 de la présente charte.
 
-Article 19 : Ordre du jour
+Article 20 : Ordre du jour
 
 L'ordre du jour des assemblées générales est préparé par le conseil exécutif et doit être soumis à l'assemblée générale au début de la séance pour approbation.
 
 CHAPITRE III : PROCÉDURES D'ÉLECTION ET DE CONSULTATION
 
-Article 20 : Candidatures
+Article 21 : Candidatures
 
-Tout membre de l'A.E.M.S.U.M. a le droit de poser sa candidature à un des postes électifs. Les modalités d'élection sont définies aux articles 21 à 24 de la présente charte.
+Tout membre de l'A.E.M.S.U.M. a le droit de poser sa candidature à un des postes électifs. Les modalités d'élection sont définies aux articles 22 à 25 de la présente charte.
 
-Article 21 : Élection du conseil exécutif
+Article 22 : Élection du conseil exécutif
 
 - Les mises en candidatures pour le poste de président doivent être affichées dans les dix (10) jours ouvrables avant l'assemblée générale où l'élection de celui-ci est réalisée. Cette période se termine trente (30) minutes avant l'heure de la convocation de l'assemblée générale;
 
@@ -190,11 +194,11 @@ Président, Vice-Président interne, Trésorier, Vice-Président aux affaires ex
 
 - Les votes sont comptés par le président et le secrétaire des élections;
 
-- Les modalités de composition du conseil exécutif sont définies par l'article 23
+- Les modalités de composition du conseil exécutif sont définies par l'article 24
 
-et 29 de la présente charte.
+et 30 de la présente charte.
 
-Article 22 : Autres élections
+Article 23 : Autres élections
 
 - Une proposition suffit pour la mise en nomination d'un candidat;
 
@@ -208,23 +212,23 @@ Article 22 : Autres élections
 
 - Les votes sont comptés par le président et le secrétaire des élections.
 
-Article 23 : Membres du conseil exécutif
+Article 24 : Membres du conseil exécutif
 
 - Les neuf (9) membres 2e et 3e année du conseil exécutif sont élus lors de l'assemblée générale annuelle;
 
 - Les six (6) membres 1re année du conseil exécutif sont élus lors de l'assemblée générale automnale;
 
-- Les modalités d'élection du conseil exécutif sont définies par les articles 21 et 22 de la présente charte.
+- Les modalités d'élection du conseil exécutif sont définies par les articles 22 et 23 de la présente charte.
 
-Article 24 : Représentants à l'assemblée départementale
+Article 25 : Représentants à l'assemblée départementale
 
-En vertu de l'article 31.01 des statuts de l'Université de Montréal, les représentants à l'assemblée départementale doivent être élus en assemblée générale. Le président, le délégué aux affaires académiques et le délégué aux affaires académiques 1<sup>ère</sup> année sont élus d'office membres de la délégation des sept (7) représentants. Les autres représentants à l'assemblée départementale sont élus lors de l'assemblée générale annuelle. Les modalités d'élection sont définies par l'article 22 de la présente charte.
+En vertu de l'article 31.01 des statuts de l'Université de Montréal, les représentants à l'assemblée départementale doivent être élus en assemblée générale. Le président, le délégué aux affaires académiques et le délégué aux affaires académiques 1<sup>ère</sup> année sont élus d'office membres de la délégation des sept (7) représentants. Les autres représentants à l'assemblée départementale sont élus lors de l'assemblée générale annuelle. Les modalités d'élection sont définies par l'article 23 de la présente charte.
 
-Article 25 : Vacance
+Article 26 : Vacance
 
-Lorsqu'un poste est laissé vacant, une élection partielle doit se tenir lors de la première assemblée générale suivant la vacance. Les modalités d'élection sont définies aux articles 22 et 23 de la présente charte.
+Lorsqu'un poste est laissé vacant, une élection partielle doit se tenir lors de la première assemblée générale suivant la vacance. Les modalités d'élection sont définies aux articles 23 et 24 de la présente charte.
 
-Article 26 : Référendum
+Article 27 : Référendum
 
 - Un référendum peut être tenu en tout temps sur un sujet quelconque par le conseil exécutif ou suite à une demande signée et présentée au conseil exécutif soit par 25 membres, soit par 10 % des membres (le plus petit des deux);
 
@@ -238,7 +242,7 @@ Article 26 : Référendum
 
 - Le résultat du référendum devient la position de l'A.E.M.S.U.M. sur le sujet concerné.
 
-Article 27 : Sondage
+Article 28 : Sondage
 
 - Le conseil exécutif peut décider de faire un sondage parmi les membres sur tous les sujets qu'il jugera pertinents;
 
@@ -248,7 +252,7 @@ Article 27 : Sondage
 
 CHAPITRE IV : CONSEIL EXÉCUTIF
 
-Article 28 : Rôle
+Article 29 : Rôle
 
 - Veille à la réalisation des buts de l'A.E.M.S.U.M.;
 
@@ -260,9 +264,9 @@ Article 28 : Rôle
 
 - Veille à assurer une relève;
 
-Article 29 : Composition
+Article 30 : Composition
 
-- Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 32 occupent des rôles seniors consultatifs. Le niveau est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min (⌊n/2⌋+1, 3))
+- Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 33 occupent des rôles seniors consultatifs. Le niveau est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min (⌊n/2⌋+1, 3))
 
 - Si aucun candidat du niveau du poste ne se présente pour ce poste, il est ouvert à tous les membres.
 
@@ -272,7 +276,7 @@ Président, Vice-Président délégué aux affaires internes, Trésorier, VicePr
 
 - Le conseil exécutif peut, selon son bon vouloir, changer les postes, cependant la réorganisation devra être approuvée à la première assemblée générale suivant cette réorganisation.
 
-Article 30 : Responsabilités des membres du conseil exécutif
+Article 31 : Responsabilités des membres du conseil exécutif
 
 - Président :
 
@@ -415,7 +419,9 @@ Coordonnateur à la vie étudiante aux activités socioculturelles 1re année
 - - Siègent au conseil des affaires académique de la F.A.É.C.U.M.;
     - Siègent à l'assemblée départementale;
 
-- - Donnent un compte-rendu au conseil exécutif de ces réunions. Article 31 : Devoir des membres du conseil exécutif
+- - Donnent un compte-rendu au conseil exécutif de ces réunions.
+
+Article 32 : Devoir des membres du conseil exécutif
 
 - Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu d'assister à
 
@@ -423,7 +429,7 @@ toutes les réunions du conseil exécutif, sauf pour des motifs hors de sa volon
 
 - Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu de laisser des traces des activités de l'A.E.M.S.U.M. pour les années suivantes.
 
-Article 32 :
+Article 33 :
 
 a. Trois personnes occupant déjà un poste exécutif rempliront aussi rôle de représentant d'orientation. Deux de ces représentants seront en charge des deux orientations les plus prévalentes chez les membres, et l'autre représentant sera en charge d'un regroupement des autres orientations.
 
@@ -441,33 +447,33 @@ e. Le conseil exécutif décide des moments opportuns pour consulter les représ
 
 f. La présidence est inéligible au rôle de représentant d'orientation.
 
-Article 33 : Vote
+Article 34 : Vote
 
 Tous les membres du conseil exécutif, sauf le président, ont droit de vote. Les décisions se prennent à la majorité absolue.
 
-Article 34 : Quorum
+Article 35 : Quorum
 
 Le quorum lors des réunions du conseil exécutif est fixé à deux tiers (2/3), c'estàdire la partie entière de deux tiers (2/3) des membres.
 
-Article 35 : Réunions
+Article 36 : Réunions
 
 Le conseil exécutif doit se réunir au moins une fois à toutes les deux (2) semaines, durant les sessions d'automne et d'hiver.
 
-Article 36 : Huis clos Les réunions du conseil exécutif peuvent se tenir à huis clos si un vote des deux tiers (2/3), c'est \-à-dire la partie entière de deux tiers (2/3) des membres présents en décident ainsi.
+Article 37 : Huis clos Les réunions du conseil exécutif peuvent se tenir à huis clos si un vote des deux tiers (2/3), c'est \-à-dire la partie entière de deux tiers (2/3) des membres présents en décident ainsi.
 
-Article 37 : Durée du mandat
+Article 38 : Durée du mandat
 
 La durée du mandat est d'un an. Toutefois, tout mandat expire le lendemain de la dernière journée de la session d'hiver à 0h00. Tout membre du conseil exécutif entre en fonction au poste auquel il a été élu dès la vacance du poste auquel il a été élu. Son mandat peut aussi expirer soit lors de sa démission, soit lors de sa destitution ou encore dès que le membre du conseil exécutif n'est plus membre de l'A.E.M.S.U.M.
 
-Article 38 : Vacance
+Article 39 : Vacance
 
-Un poste de membre du conseil exécutif est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, la procédure définie à l'article 40 de la présente charte s'applique.
+Un poste de membre du conseil exécutif est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, la procédure définie à l'article 41 de la présente charte s'applique.
 
-Article 39 : Démission
+Article 40 : Démission
 
 Un membre du conseil exécutif qui veut quitter son poste, ou qui n'est plus membre de l'A.E.M.S.U.M. devra remettre sa démission par écrit au conseil exécutif. Sa démission devient effective au moment où elle est acceptée par le conseil exécutif.
 
-Article 40 : Destitution
+Article 41 : Destitution
 
 - Un membre du conseil exécutif peut être destitué s'il ne remplit pas les obligations inhérentes à son poste décrites dans la présente charte ou s'il s'absente des réunions du conseil exécutif trois fois sans raison valable aux yeux du conseil exécutif;
 
@@ -477,39 +483,39 @@ Article 40 : Destitution
 
 - Cette décision devient effective immédiatement après le vote.
 
-Article 41 : Élection partielle
+Article 42 : Élection partielle
 
-Une fois la répartition des postes entre les membres du conseil exécutif établie, Si un ou plusieurs postes sont vacants suite à la démission ou à la destitution de l'un ou de plusieurs de ces derniers, il y aura élection partielle dans le but de pourvoir le ou les postes précédemment occupés par la ou les personnes en question. Les autres modalités d'élection sont définies aux articles 21 et 22 de la présente charte.
+Une fois la répartition des postes entre les membres du conseil exécutif établie, Si un ou plusieurs postes sont vacants suite à la démission ou à la destitution de l'un ou de plusieurs de ces derniers, il y aura élection partielle dans le but de pourvoir le ou les postes précédemment occupés par la ou les personnes en question. Les autres modalités d'élection sont définies aux articles 22 et 23 de la présente charte.
 
-Article 42 : Dissolution du conseil exécutif
+Article 43 : Dissolution du conseil exécutif
 
 - La dissolution du conseil exécutif est décidée par voie référendaire. Les
 
-modalités d'un tel référendum sont définies par l'article 26 de la présente charte;
+modalités d'un tel référendum sont définies par l'article 27 de la présente charte;
 
-- Les demandeurs du référendum ont la charge de convoquer une assemblée générale spéciale où il y aura élection du nouveau conseil exécutif. Les modalités d'élection sont définies par l'article 21 de la présente charte.
+- Les demandeurs du référendum ont la charge de convoquer une assemblée générale spéciale où il y aura élection du nouveau conseil exécutif. Les modalités d'élection sont définies par l'article 22 de la présente charte.
 
 CHAPITRE V : PARTICIPATION AUX INSTANCES
 
 Section 1 : Assemblée départementale
 
-Article 43 : Délégation et élection
+Article 44 : Délégation et élection
 
-La procédure d'élection des membres de la délégation à l'assemblée départementale est définie aux articles 22 et 24 de la présente charte. Le président et le délégué aux affaires académiques sont élus d'office. Les représentants membres de cette délégation sont redevables devant le conseil exécutif et l'assemblée générale.
+La procédure d'élection des membres de la délégation à l'assemblée départementale est définie aux articles 23 et 25 de la présente charte. Le président et le délégué aux affaires académiques sont élus d'office. Les représentants membres de cette délégation sont redevables devant le conseil exécutif et l'assemblée générale.
 
-Article 44 : Mandat
+Article 45 : Mandat
 
 Tout mandat expire à l'assemblée générale annuelle. Tout représentant à l'assemblée départementale entre en fonction à la clôture de l'assemblée générale au cours de laquelle il a été élu. Son mandat peut aussi expirer soit lors de sa démission ou de sa destitution, soit dès que le représentant n'est plus membre de l'A.E.M.S.U.M.
 
-Article 45 : Vacance
+Article 46 : Vacance
 
-Un poste de représentant à l'assemblée départementale est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, les modalités d'élection sont définies aux articles 22 et 24 de la présente charte.
+Un poste de représentant à l'assemblée départementale est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, les modalités d'élection sont définies aux articles 23 et 25 de la présente charte.
 
-Article 46 : Démission
+Article 47 : Démission
 
 Un représentant à l'assemblée départementale qui veut quitter son poste, ou qui n'est plus membre de l'A.E.M.S.U.M. devra remettre sa démission par écrit au conseil exécutif. Sa démission devient effective au moment où elle est acceptée par le conseil exécutif.
 
-Article 47 : Destitution
+Article 48 : Destitution
 
 - Un représentant à l'assemblée départementale peut être destitué s'il ne remplit pas les obligations inhérentes à son poste ou s'il s'absente à trois assemblées sans raison valable aux yeux du conseil exécutif;
 
@@ -521,11 +527,11 @@ CHAPITRE VI : COMITÉS
 
 Section 1 : Café du pavillon André-Aisenstadt
 
-Article 48 : Subordination
+Article 49 : Subordination
 
 Le café du pavillon André-Aisenstadt possède une gestion quotidienne autonome de l'A.E.M.S.U.M. Il est géré, entre autres, par les deux représentants café du conseil exécutif, et un troisième représentant café élu lors de l'assemblée générale annuelle. Deux des trois représentants ont la responsabilité d'être signataire du compte du café. Par contre, selon la charte du café du pavillon André-Aisenstadt, l'A.E.M.S.U.M. possède sa part financière du café.
 
-Article 49 : Bénévoles
+Article 50 : Bénévoles
 
 - Tout membre de l'A.E.M.S.U.M. peut être bénévole;
 
@@ -535,23 +541,23 @@ Article 49 : Bénévoles
 
 Section 2 : Comité des finissants
 
-Article 50 : Fonctions
+Article 51 : Fonctions
 
 Le comité des finissants assure l'organisation des activités de finissants (p. ex. sondage, bal, collation des grades, photos, bagues) et assure l'organisation du financement de ces activités.
 
-Article 51 : Subordination
+Article 52 : Subordination
 
 Le comité des finissants est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 52 : Formation
+Article 53 : Formation
 
 Le comité des finissants est formé lors de l'assemblée générale automnale. Il est ouvert à tous les membres de troisième année ou plus, chacun de ceux-ci ayant droit de vote, de proposition et de parole.
 
-Article 53 : Responsabilités
+Article 54 : Responsabilités
 
-Les membres du comité des finissants remplissent collectivement les fonctions définies à l'article 49 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
+Les membres du comité des finissants remplissent collectivement les fonctions définies à l'article 50 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
 
-Article 54 : Dispositions financières
+Article 55 : Dispositions financières
 
 - Le comité des finissants est tenu de présenter des états financiers complets à la dernière réunion de la session d'hiver du conseil exécutif ou sur demande de ce dernier;
 
@@ -559,15 +565,15 @@ Article 54 : Dispositions financières
 
 Section 3 : Comité d'activités d'accueil
 
-Article 55 : Fonctions
+Article 56 : Fonctions
 
 Le comité d'activités d'accueil assure l'organisation des activités accueil avant la rentrée d'automne et assure l'organisation du financement de ces activités.
 
-Article 56 : Subordination
+Article 57 : Subordination
 
 Le comité d'activités d'accueil est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 57 : Formation
+Article 58 : Formation
 
 - Le comité d'activités d'accueil est formé lors de l'assemblée générale annuelle. Il est ouvert à tous, chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
@@ -575,11 +581,11 @@ Article 57 : Formation
 
 générale annuelle doit siéger sur ce comité.
 
-Article 58 : Responsabilités
+Article 59 : Responsabilités
 
-Les membres du comité d'activités d'accueil remplissent collectivement les fonctions définies à l'article 54 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
+Les membres du comité d'activités d'accueil remplissent collectivement les fonctions définies à l'article 55 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
 
-Article 59 : Dispositions financières
+Article 60 : Dispositions financières
 
 - Le comité d'activités d'accueil est tenu de présenter des états financiers complets à la première réunion de la session d'automne du conseil exécutif ou sur demande de ce dernier;
 
@@ -587,15 +593,15 @@ Article 59 : Dispositions financières
 
 Section 4 : Comité _L'Axiomatique_
 
-Article 60 : Fonctions
+Article 61 : Fonctions
 
 _L'Axiomatique_ est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
 
-Article 61 : Subordination
+Article 62 : Subordination
 
 Le comité _L'Axiomatique_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 62 : Formation
+Article 63 : Formation
 
 - Le comité _L'Axiomatique_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
@@ -603,7 +609,7 @@ Article 62 : Formation
 
 - Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
-Article 63 : Responsabilités
+Article 64 : Responsabilités
 
 - Un membre du conseil exécutif se charge de faire le lien entre le comité et le
 
@@ -611,7 +617,7 @@ conseil exécutif.
 
 - Le comité se charge d'établir les responsabilités de chacun de ses membres. Celles-ci incluent notamment la rédaction, la mise en page, la correction et la photographie.
 
-Article 64 : Dispositions financières
+Article 65 : Dispositions financières
 
 - Le comité _L'Axiomatique_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
@@ -619,15 +625,15 @@ Article 64 : Dispositions financières
 
 Section 5 : Comité _Humains d'Aisenstadt_
 
-Article 65 : Fonctions
+Article 66 : Fonctions
 
 _Humains d'Aisenstadt_ est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
 
-Article 66 : Subordination
+Article 67 : Subordination
 
 Le comité _Humains d'Aisenstadt_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 67 : Formation
+Article 68 : Formation
 
 - Le comité _Humains d'Ainsenstadt_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceuxci ayant droit de vote, de proposition et de parole;
 
@@ -635,12 +641,12 @@ Article 67 : Formation
 
 - Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
-Article 68 : Responsabilités
+Article 69 : Responsabilités
 
 - Un membre du conseil exécutif se charge de faire le lien entre le comité et le conseil exécutif.
 - Le comité se charge d'établir les responsabilités de chacun de ses membres.
 
-Article 69 : Dispositions financières
+Article 70 : Dispositions financières
 
 - Le comité _Humains d'Aisenstadt_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
@@ -648,15 +654,15 @@ Article 69 : Dispositions financières
 
 Section 6 : Comité _Équité, diversité et inclusion_
 
-Article 70 : Fonctions
+Article 71 : Fonctions
 
 Le comité EDI est une initiative visant à promouvoir l'équité, la diversité et l'inclusion au sein du département et des activités associatives.
 
-Article 71 : Subordination
+Article 72 : Subordination
 
 Le comité EDI est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 72 : Formation
+Article 73 : Formation
 
 - 1. Le comité EDI est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
@@ -664,13 +670,13 @@ Article 72 : Formation
 
 - 1. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
-Article 73 : Responsabilités
+Article 74 : Responsabilités
 
 - Un membre du conseil exécutif se charge de faire le lien entre le comité et le conseil exécutif;
 
 - Le comité se charge d'établir les responsabilités de chacun de ses membres.
 
-Article 74 : Dispositions financières
+Article 75 : Dispositions financières
 
 - 1. Le comité EDI est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
@@ -678,7 +684,7 @@ Article 74 : Dispositions financières
 
 Section 7 : Formation de comité
 
-Article 75 : Formation de comité
+Article 76 : Formation de comité
 
 - L'assemblée générale et le conseil exécutif ont le pouvoir de former tout autre comité qu'ils jugeront nécessaire afin d'atteindre les buts de l'A.E.M.S.U.M.;
 
@@ -696,23 +702,23 @@ Article 75 : Formation de comité
 
 CHAPITRE VII : DISPOSITIONS FINANCIÈRES
 
-Article 76 : Exercice financier
+Article 77 : Exercice financier
 
 L'exercice financier de l'A.E.M.S.U.M. débute à la première journée suivant la session d'hiver et se termine à la dernière journée de cours de la session d'hiver suivante.
 
-Article 77 : États financiers
+Article 78 : États financiers
 
 Les états financiers de l'A.E.M.S.U.M. doivent être présentés pour adoption à l'assemblée générale automnale.
 
-Article 78 : Livres comptables
+Article 79 : Livres comptables
 
 Le conseil exécutif fait tenir par la trésorerie un ou des livres dans lesquelles seront inscrits tous les biens de l'A.E.M.S.U.M. et chacune de ses transactions financières.
 
-Article 79 : Compte de banque
+Article 80 : Compte de banque
 
 Le trésorier, le président et le ou les vice-présidents/secrétaires sont signataires du compte de banque de l'A.E.M.S.U.M. Deux de ces personnes doivent signer.
 
-Article 80 : Dépenses
+Article 81 : Dépenses
 
 - Aucun chèque en blanc ne doit être signé;
 
@@ -722,11 +728,11 @@ Article 80 : Dépenses
 
 CHAPITRE VIII : CAHIER DE POSITIONS
 
-Article 81 : Rôle
+Article 82 : Rôle
 
 Le cahier de position de l'A.E.M.S.U.M. regroupe les positions et mandats votés en assemblée générale.
 
-Article 82 : Validité
+Article 83 : Validité
 
 Les positions et mandats du cahier de positions ont une période de validité de deux ans mais peuvent être modifiés et votés en assemblée générale avant la fin de cette période. Après cette période, ils doivent être votés à nouveau en assemblée générale. Une position ou un mandat n'obtenant pas la majorité absolue sera supprimé.
 
@@ -734,10 +740,10 @@ Les positions et mandats restent valides tant qu'ils n'ont pas été votés à n
 
 CHAPITRE IX : ENTRÉE EN VIGUEUR
 
-Article 83 : Annulation
+Article 84 : Annulation
 
 Le présent article abroge et annule tous les articles de la présente charte de l'A.E.M.S.U.M. en vigueur avant le 19 septembre 2023.
 
-Article 84 : Entrée en vigueur
+Article 85 : Entrée en vigueur
 
 La présente charte est entrée en vigueur le 11 septembre 2024.
