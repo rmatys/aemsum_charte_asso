@@ -479,6 +479,14 @@ Article 41 : Destitution
 
 - Il est le devoir du conseil exécutif de prendre en notes les présences aux réunions;
 
+- Avant qu'un vote de destitution puisse avoir lieu, la procédure suivante doit être respectée :
+
+  1. Le membre visé doit recevoir un préavis écrit indiquant les motifs de la destitution envisagée, au moins sept (7) jours avant le vote;
+
+  2. Le membre visé dispose d'un délai de cinq (5) jours suivant la réception du préavis pour soumettre une réponse écrite au conseil exécutif;
+
+  3. Le membre visé a le droit d'être entendu devant le conseil exécutif ou l'assemblée générale, selon le cas, avant que le vote ne soit tenu;
+
 - La décision de destitution est prise soit par le conseil exécutif par un vote des deux tiers (2/3), c'est-à-dire la partie entière de deux tiers (2/3) de tous les membres du conseil exécutif à l'exception de la personne concernée, soit lors d'une assemblée générale spéciale avec le vote des deux tiers (2/3) des membres présents;
 
 - Cette décision devient effective immédiatement après le vote.
@@ -518,6 +526,14 @@ Un représentant à l'assemblée départementale qui veut quitter son poste, ou 
 Article 48 : Destitution
 
 - Un représentant à l'assemblée départementale peut être destitué s'il ne remplit pas les obligations inhérentes à son poste ou s'il s'absente à trois assemblées sans raison valable aux yeux du conseil exécutif;
+
+- Avant qu'un vote de destitution puisse avoir lieu, la procédure suivante doit être respectée :
+
+  1. Le représentant visé doit recevoir un préavis écrit indiquant les motifs de la destitution envisagée, au moins sept (7) jours avant le vote;
+
+  2. Le représentant visé dispose d'un délai de cinq (5) jours suivant la réception du préavis pour soumettre une réponse écrite au conseil exécutif;
+
+  3. Le représentant visé a le droit d'être entendu devant le conseil exécutif ou l'assemblée générale, selon le cas, avant que le vote ne soit tenu;
 
 - La décision de destitution est prise soit par le conseil exécutif par un vote des deux tiers (2/3), c'est-à-dire la partie entière de deux tiers (2/3) de tous les membres du conseil exécutif, soit lors d'une assemblée générale spéciale avec le vote des deux tiers (2/3) des membres présents;
 
