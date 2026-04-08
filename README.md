@@ -91,7 +91,7 @@ Le code de procédure pour les assemblées générales et le conseil exécutif e
 
 Article 12 : Écriture inclusive
 
-Dans la présente charte, les termes « membre », « étudiant », « représentant » et autres formes au masculin sont utilisés à titre épicène afin d'alléger le texte. Ils désignent les personnes de tous genres sans distinction. L'A.E.M.S.U.M. s'engage à l'égalité de genre et à l'inclusivité pour l'ensemble de ses membres.
+Dans la présente charte, les termes « membre », « étudiant », « représentant » et autres formes au masculin sont utilisés à titre épicène afin d'alléger le texte. Ils désignent les personnes de tous genres sans distinction.
 
 CHAPITRE II : ASSEMBLÉES DES MEMBRES
 
@@ -278,103 +278,103 @@ Président, Vice-Président délégué aux affaires internes, Trésorier, VicePr
 
 Article 31 : Responsabilités des membres du conseil exécutif
 
-- Président :
+a. Président :
 
-- - Préside les réunions du conseil exécutif et en prépare l'ordre du jour;
+- Préside les réunions du conseil exécutif et en prépare l'ordre du jour;
 
-- - Porte-parole de l'A.E.M.S.U.M.;
+- Porte-parole de l'A.E.M.S.U.M.;
 
-- - Ratifie de sa signature tout document qui engage l'A.E.M.S.U.M.;
+- Ratifie de sa signature tout document qui engage l'A.E.M.S.U.M.;
 
-- - Siège à l'assemblée départementale;
+- Siège à l'assemblée départementale;
 
-- - Coordonne les activités de l'A.E.M.S.U.M.;
+- Coordonne les activités de l'A.E.M.S.U.M.;
 
-- - S'assure que l'A.E.M.S.U.M. soit représentée dans les diverses instances où elle siège;
+- S'assure que l'A.E.M.S.U.M. soit représentée dans les diverses instances où elle siège;
 
-- - Siège au comité du café du pavillon André-Aisenstadt et/ou s'assure qu'un membre du conseil exécutif, qui n'est pas représentant café, y siège;
+- Siège au comité du café du pavillon André-Aisenstadt et/ou s'assure qu'un membre du conseil exécutif, qui n'est pas représentant café, y siège;
 
-- - Peut ratifier de sa signature les chèques de l'A.E.M.S.U.M.;
+- Peut ratifier de sa signature les chèques de l'A.E.M.S.U.M.;
 
-- - S'assure qu'un membre du conseil exécutif rédige les procès-verbaux et prenne les présences;
+- S'assure qu'un membre du conseil exécutif rédige les procès-verbaux et prenne les présences;
 
-- - Est coresponsable avec les vice-présidents de toutes tâches non décrites dans ce document.
+- Est coresponsable avec les vice-présidents de toutes tâches non décrites dans ce document.
 
-- Vice-président délégué aux affaires internes:
+b. Vice-président délégué aux affaires internes:
 
-- - Trie le courrier (postal et internet) de l'A.E.M.S.U.M.;
+- Trie le courrier (postal et internet) de l'A.E.M.S.U.M.;
 
-- - Assure la mobilisation des membres de l'A.E.M.S.U.M.;
+- Assure la mobilisation des membres de l'A.E.M.S.U.M.;
 
-- - Responsable de l'information et de la bonne participation des membres à toutes les activités relatives à la vie étudiante de l'A.E.M.S.U.M. , excluant les activités sportives du campus.;
+- Responsable de l'information et de la bonne participation des membres à toutes les activités relatives à la vie étudiante de l'A.E.M.S.U.M. , excluant les activités sportives du campus.;
 
-- - Responsable de la gestion des permis d'alcool de l'A.E.M.S.U.M.;
+- Responsable de la gestion des permis d'alcool de l'A.E.M.S.U.M.;
 
-- - S'occupe du matériel promotionnel de l'A.E.M.S.U.M.;
+- S'occupe du matériel promotionnel de l'A.E.M.S.U.M.;
 
-- - Assiste les CVE dans la vente de billets pour les événements de l'A.E.M.S.U.M.;
+- Assiste les CVE dans la vente de billets pour les événements de l'A.E.M.S.U.M.;
 
-- - Supervise les tâches des CVE;
+- Supervise les tâches des CVE;
 
-- - Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
+- Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
 
-- - Assiste aux congrès de la FAÉCUM.
+- Assiste aux congrès de la FAÉCUM.
 
-- - Gère le tri des matières résiduelles au local de l'association étudiante
+- Gère le tri des matières résiduelles au local de l'association étudiante
 
-- Délégué 1re année aux affaires internes:
+c. Délégué 1re année aux affaires internes:
 
-- - S'occupe de la gestion des médias sociaux et s'assure de mises à jour régulières;
+- S'occupe de la gestion des médias sociaux et s'assure de mises à jour régulières;
 
-- - Crée et promeut les événements de l'A.E.M.S.U.M. sur les réseaux sociaux;
+- Crée et promeut les événements de l'A.E.M.S.U.M. sur les réseaux sociaux;
 
-- - Tient les membres au courant des activités de l'A.E.M.S.U.M.;
+- Tient les membres au courant des activités de l'A.E.M.S.U.M.;
 
-- - Gère la prise, le tri et la publication de photos et de vidéos pour l'A.E.M.S.U.M.;
+- Gère la prise, le tri et la publication de photos et de vidéos pour l'A.E.M.S.U.M.;
 
-- - Sert d'intermédiaire entre les membres de l'A.E.M.S.U.M en première année et le conseil exécutif;
+- Sert d'intermédiaire entre les membres de l'A.E.M.S.U.M en première année et le conseil exécutif;
 
-- - Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
+- Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
 
-- - Assiste la personne déléguée aux affaires internes senior dans ses tâches
+- Assiste la personne déléguée aux affaires internes senior dans ses tâches
 
 d. Trésorier :
 
-- - Assume la bonne tenue des livres comptables de l'A.E.M.S.U.M.;
+- Assume la bonne tenue des livres comptables de l'A.E.M.S.U.M.;
 
-- - Produit les états financiers de l'A.E.M.S.U.M.;
+- Produit les états financiers de l'A.E.M.S.U.M.;
 
-- - Est signataire des chèques de l'A.E.M.S.U.M.;
+- Est signataire des chèques de l'A.E.M.S.U.M.;
 
-- - Assure quotidiennement le suivi des dépenses de l'A.E.M.S.U.M. et récolte les factures;
+- Assure quotidiennement le suivi des dépenses de l'A.E.M.S.U.M. et récolte les factures;
 
-- - S'assure que les dépôts soient faits régulièrement;
+- S'assure que les dépôts soient faits régulièrement;
 
-- - Responsable des cotisations étudiantes;
+- Responsable des cotisations étudiantes;
 
-- - S'assure que la petite caisse soit adéquate.
+- S'assure que la petite caisse soit adéquate.
 
-- Vice-président aux affaires externes et Délégué 1re année aux affaires externes :
+e. Vice-président aux affaires externes et Délégué 1re année aux affaires externes :
 
-- - Responsable des relations de l'A.E.M.S.U.M. avec les organismes externes;
+- Responsable des relations de l'A.E.M.S.U.M. avec les organismes externes;
 
-- - Responsable de l'information reliée à ce secteur;
+- Responsable de l'information reliée à ce secteur;
 
-- - Siège au conseil central et au congrès de la F.A.É.C.U.M.;
+- Siège au conseil central et au congrès de la F.A.É.C.U.M.;
 
-- - Donne un compte-rendu au conseil exécutif de ces réunions.
+- Donne un compte-rendu au conseil exécutif de ces réunions.
 
-- - Assument les responsabilités du Président en l'absence de celui-ci;
+- Assument les responsabilités du Président en l'absence de celui-ci;
 
-- - S'assurent de la légalité de tout document et toutes démarches entreprises par l'A.E.M.S.U.M.;
+- S'assurent de la légalité de tout document et toutes démarches entreprises par l'A.E.M.S.U.M.;
 
-- - Assistent les autres membres du conseil exécutif dans leurs fonctions;
+- Assistent les autres membres du conseil exécutif dans leurs fonctions;
 
-- - Peuvent ratifier de leurs signatures respectives les chèques de l'A.E.M.S.U.M.;
+- Peuvent ratifier de leurs signatures respectives les chèques de l'A.E.M.S.U.M.;
 
-- - Sont coresponsable avec le président de toutes tâches non décrites dans ce document.
+- Sont coresponsable avec le président de toutes tâches non décrites dans ce document.
 
-- Coordonnateurs à la vie étudiante et Coordonnateur 1re année à la vie étudiante :
+f. Coordonnateurs à la vie étudiante et Coordonnateur 1re année à la vie étudiante :
 
 - Responsables de l'organisation des activités sociales de l'A.E.M.S.U.M.;
 
@@ -396,7 +396,7 @@ Coordonnateur à la vie étudiante aux activités socioculturelles 1re année
 
 - S'engagent à offrir des activités sans alcool.
 
-- Coordonnateur aux affaires professionnelles
+h. Coordonnateur aux affaires professionnelles
   - S'occupe de la tenue à jour de la politique des commandites de l'A.E.M.S.U.M.;
   - S'occupe de contacter des compagnies, organismes, ou autres organisations qui sont des employeurs potentiels pour les membres de l'A.E.M.S.U.M.;
   - S'assurent que les activités proposées par l'A.E.M.S.U.M. soient variées et viennent rejoindre les intérêts des membres de toutes les orientations;
@@ -404,22 +404,22 @@ Coordonnateur à la vie étudiante aux activités socioculturelles 1re année
   - Responsables de l'information reliée à ce secteur;
 - Responsable du café étudiant et responsable du café étudiant 1re année
 
-- - Siège au comité du café du pavillon André-Aisenstadt;
+- Siège au comité du café du pavillon André-Aisenstadt;
 
-- - S'assure de la légalité du café du pavillon André-Aisenstadt face aux gouvernements;
+- S'assure de la légalité du café du pavillon André-Aisenstadt face aux gouvernements;
 
-- - Pour toutes autres responsabilités liées aux tâches de représentant café, se référer à la charte du café;
+- Pour toutes autres responsabilités liées aux tâches de représentant café, se référer à la charte du café;
 
-- Délégué aux affaires académiques et Délégué 1re année aux affaires académiques :
+i. Délégué aux affaires académiques et Délégué 1re année aux affaires académiques :
 
-- - Responsables des questions touchant le secteur académique;
+- Responsables des questions touchant le secteur académique;
 
-- - Coordonnent la participation aux entreprises à but académique qu'ils jugent profitable pour les membres, peu importe qui sont les organisateurs;
+- Coordonnent la participation aux entreprises à but académique qu'ils jugent profitable pour les membres, peu importe qui sont les organisateurs;
 
-- - Siègent au conseil des affaires académique de la F.A.É.C.U.M.;
+- Siègent au conseil des affaires académique de la F.A.É.C.U.M.;
     - Siègent à l'assemblée départementale;
 
-- - Donnent un compte-rendu au conseil exécutif de ces réunions.
+- Donnent un compte-rendu au conseil exécutif de ces réunions.
 
 Article 32 : Devoir des membres du conseil exécutif
 
@@ -437,9 +437,9 @@ b. Si plusieurs membres du conseil exécutif appartiennent à une même orientat
 
 c. Les représentants tiennent les responsabilités suivantes :
 
-- - Conseiller l'A.E.M.S.U.M. dans les décisions ayant trait à des orientations spécifiques, et non à l'ensemble des membres;
-    - Consulter les membres de son orientation sur des enjeux et rapporter leurs opinions au conseil exécutif;
-    - Voter lors des décisions du comité exécutif qui concerne spécifiquement son orientation.
+- Conseiller l'A.E.M.S.U.M. dans les décisions ayant trait à des orientations spécifiques, et non à l'ensemble des membres;
+- Consulter les membres de son orientation sur des enjeux et rapporter leurs opinions au conseil exécutif;
+- Voter lors des décisions du comité exécutif qui concerne spécifiquement son orientation.
 
 d. SI le représentant occupe un poste au sein du conseil exécutif, il possède un total de deux votes lors des votes qui concernent spécifiquement son orientation. Si le représentant n'occupe pas de poste au sein du conseil exécutif, il possède un vote lors des votes spécifiques à son orientation et aucun lors des autres votes.
 
