@@ -74,7 +74,7 @@ L'A.E.M.S.U.M. est affiliée à la Fédération des Associations étudiantes du 
 
 Article 9 : Modification de la charte
 
-L'assemblée générale seule peut décider d'amender la présente charte par un vote des deux tiers (2/3) des membres présents. L'avis de convocation doit obligatoirement faire mention de tout article visé.
+L'assemblée générale seule peut décider d'amender la présente charte par un vote des deux tiers (2/3) des membres présents. L'avis de convocation doit obligatoirement faire mention de tout article visé. Le texte complet des amendements proposés doit être diffusé à l'ensemble des membres au moins sept (7) jours avant la tenue de l'assemblée générale.
 
 Article 10 : Dissolution de l'A.E.M.S.U.M.
 
@@ -168,7 +168,7 @@ CHAPITRE III : PROCÉDURES D'ÉLECTION ET DE CONSULTATION
 
 Article 21 : Candidatures
 
-Tout membre de l'A.E.M.S.U.M. a le droit de poser sa candidature à un des postes électifs. Les modalités d'élection sont définies aux articles 22 à 25 de la présente charte.
+Tout membre de l'A.E.M.S.U.M. a le droit de poser sa candidature à un des postes électifs. Les modalités d'élection sont définies de l'article 22 à l'article 25 de la présente charte.
 
 Article 22 : Élection du conseil exécutif
 
@@ -222,7 +222,7 @@ En vertu de l'article 31.01 des statuts de l'Université de Montréal, les repr�
 
 Article 26 : Vacance
 
-Lorsqu'un poste est laissé vacant, une élection partielle doit se tenir lors de la première assemblée générale suivant la vacance. Les modalités d'élection sont définies aux articles 23 et 24 de la présente charte.
+Lorsqu'un poste est laissé vacant, une élection partielle doit se tenir lors de la première assemblée générale suivant la vacance. Les modalités d'élection sont définies à l'article 23 et l'article 24 de la présente charte.
 
 Article 27 : Référendum
 
@@ -450,11 +450,21 @@ Article 34 : Vote
 
 Tous les membres du conseil exécutif, sauf le président, ont droit de vote. Les décisions se prennent à la majorité absolue.
 
-Article 35 : Quorum
+Article 35 : Conflits d'intérêts
+
+a. Un conflit d'intérêts survient lorsqu'un membre du conseil exécutif ou un représentant a un intérêt personnel, financier ou professionnel susceptible d'influencer, ou de paraître influencer, l'exercice impartial de ses fonctions au sein de l'A.E.M.S.U.M.
+
+b. Tout membre du conseil exécutif ou représentant ayant un conflit d'intérêts réel ou potentiel doit le divulguer avant toute délibération ou vote sur la question concernée. La divulgation est faite verbalement et consignée au procès-verbal.
+
+c. Tout membre ayant déclaré un conflit d'intérêts doit se retirer des délibérations et s'abstenir de voter sur la question concernée.
+
+d. Si un membre omet de divulguer un conflit d'intérêts et que cela est démontré ultérieurement, le conseil exécutif peut annuler la décision prise et tenir un nouveau vote.
+
+Article 36 : Quorum
 
 Le quorum lors des réunions du conseil exécutif est fixé à deux tiers (2/3), c'estàdire la partie entière de deux tiers (2/3) des membres.
 
-Article 36 : Réunions
+Article 37 : Réunions
 
 Le conseil exécutif doit se réunir au moins une fois à toutes les deux (2) semaines, durant les sessions d'automne et d'hiver.
 
@@ -462,19 +472,19 @@ Article 36 : Huis clos
 
 Les réunions du conseil exécutif peuvent se tenir à huis clos si un vote des deux tiers (2/3), c'est \-à-dire la partie entière de deux tiers (2/3) des membres présents en décident ainsi.
 
-Article 38 : Durée du mandat
+Article 39 : Durée du mandat
 
 La durée du mandat est d'un an. Toutefois, tout mandat expire le lendemain de la dernière journée de la session d'hiver à 0h00. Tout membre du conseil exécutif entre en fonction au poste auquel il a été élu dès la vacance du poste auquel il a été élu. Son mandat peut aussi expirer soit lors de sa démission, soit lors de sa destitution ou encore dès que le membre du conseil exécutif n'est plus membre de l'A.E.M.S.U.M.
 
-Article 39 : Vacance
+Article 40 : Vacance
 
-Un poste de membre du conseil exécutif est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, la procédure définie à l'article 41 de la présente charte s'applique.
+Un poste de membre du conseil exécutif est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, la procédure définie à l'article 42 de la présente charte s'applique.
 
-Article 40 : Démission
+Article 41 : Démission
 
 Un membre du conseil exécutif qui veut quitter son poste, ou qui n'est plus membre de l'A.E.M.S.U.M. devra remettre sa démission par écrit au conseil exécutif. Sa démission devient effective au moment où elle est acceptée par le conseil exécutif.
 
-Article 41 : Destitution
+Article 42 : Destitution
 
 - a. Un membre du conseil exécutif peut être destitué s'il ne remplit pas les obligations inhérentes à son poste décrites dans la présente charte ou s'il s'absente des réunions du conseil exécutif trois fois sans raison valable aux yeux du conseil exécutif;
 
@@ -484,11 +494,11 @@ Article 41 : Destitution
 
 - d. Cette décision devient effective immédiatement après le vote.
 
-Article 42 : Élection partielle
+Article 43 : Élection partielle
 
-Une fois la répartition des postes entre les membres du conseil exécutif établie, Si un ou plusieurs postes sont vacants suite à la démission ou à la destitution de l'un ou de plusieurs de ces derniers, il y aura élection partielle dans le but de pourvoir le ou les postes précédemment occupés par la ou les personnes en question. Les autres modalités d'élection sont définies aux articles 22 et 23 de la présente charte.
+Une fois la répartition des postes entre les membres du conseil exécutif établie, Si un ou plusieurs postes sont vacants suite à la démission ou à la destitution de l'un ou de plusieurs de ces derniers, il y aura élection partielle dans le but de pourvoir le ou les postes précédemment occupés par la ou les personnes en question. Les autres modalités d'élection sont définies à l'articles 22 et à l'article 23 de la présente charte.
 
-Article 43 : Dissolution du conseil exécutif
+Article 44 : Dissolution du conseil exécutif
 
 - a. La dissolution du conseil exécutif est décidée par voie référendaire. Les modalités d'un tel référendum sont définies par l'article 26 de la présente charte;
 
@@ -498,23 +508,23 @@ CHAPITRE V : PARTICIPATION AUX INSTANCES
 
 Section 1 : Assemblée départementale
 
-Article 44 : Délégation et élection
+Article 45 : Délégation et élection
 
-La procédure d'élection des membres de la délégation à l'assemblée départementale est définie aux articles 23 et 25 de la présente charte. Le président et le délégué aux affaires académiques sont élus d'office. Les représentants membres de cette délégation sont redevables devant le conseil exécutif et l'assemblée générale.
+La procédure d'élection des membres de la délégation à l'assemblée départementale est définie à l'article 23 et à l'article 25 de la présente charte. Le président et le délégué aux affaires académiques sont élus d'office. Les représentants membres de cette délégation sont redevables devant le conseil exécutif et l'assemblée générale.
 
-Article 45 : Mandat
+Article 46 : Mandat
 
 Tout mandat expire à l'assemblée générale annuelle. Tout représentant à l'assemblée départementale entre en fonction à la clôture de l'assemblée générale au cours de laquelle il a été élu. Son mandat peut aussi expirer soit lors de sa démission ou de sa destitution, soit dès que le représentant n'est plus membre de l'A.E.M.S.U.M.
 
-Article 46 : Vacance
+Article 47 : Vacance
 
-Un poste de représentant à l'assemblée départementale est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, les modalités d'élection sont définies aux articles 23 et 25 de la présente charte.
+Un poste de représentant à l'assemblée départementale est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, les modalités d'élection sont définies à l'article 23 et à l'article 25 de la présente charte.
 
-Article 47 : Démission
+Article 48 : Démission
 
 Un représentant à l'assemblée départementale qui veut quitter son poste, ou qui n'est plus membre de l'A.E.M.S.U.M. devra remettre sa démission par écrit au conseil exécutif. Sa démission devient effective au moment où elle est acceptée par le conseil exécutif.
 
-Article 48 : Destitution
+Article 49 : Destitution
 
 - a. Un représentant à l'assemblée départementale peut être destitué s'il ne remplit pas les obligations inhérentes à son poste ou s'il s'absente à trois assemblées sans raison valable aux yeux du conseil exécutif;
 
@@ -526,11 +536,11 @@ CHAPITRE VI : COMITÉS
 
 Section 1 : Café du pavillon André-Aisenstadt
 
-Article 49 : Subordination
+Article 50 : Subordination
 
 Le café du pavillon André-Aisenstadt possède une gestion quotidienne autonome de l'A.E.M.S.U.M. Il est géré, entre autres, par les deux représentants café du conseil exécutif, et un troisième représentant café élu lors de l'assemblée générale annuelle. Deux des trois représentants ont la responsabilité d'être signataire du compte du café. Par contre, selon la charte du café du pavillon André-Aisenstadt, l'A.E.M.S.U.M. possède sa part financière du café.
 
-Article 50 : Bénévoles
+Article 51 : Bénévoles
 
 - a. Tout membre de l'A.E.M.S.U.M. peut être bénévole;
 
@@ -540,23 +550,23 @@ Article 50 : Bénévoles
 
 Section 2 : Comité des finissants
 
-Article 51 : Fonctions
+Article 52 : Fonctions
 
 Le comité des finissants assure l'organisation des activités de finissants (p. ex. sondage, bal, collation des grades, photos, bagues) et assure l'organisation du financement de ces activités.
 
-Article 52 : Subordination
+Article 53 : Subordination
 
 Le comité des finissants est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 53 : Formation
+Article 54 : Formation
 
 Le comité des finissants est formé lors de l'assemblée générale automnale. Il est ouvert à tous les membres de troisième année ou plus, chacun de ceux-ci ayant droit de vote, de proposition et de parole.
 
-Article 54 : Responsabilités
+Article 55 : Responsabilités
 
-Les membres du comité des finissants remplissent collectivement les fonctions définies à l'article 50 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
+Les membres du comité des finissants remplissent collectivement les fonctions définies à l'article 52 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
 
-Article 55 : Dispositions financières
+Article 56 : Dispositions financières
 
 - a. Le comité des finissants est tenu de présenter des états financiers complets à la dernière réunion de la session d'hiver du conseil exécutif ou sur demande de ce dernier;
 
@@ -564,15 +574,15 @@ Article 55 : Dispositions financières
 
 Section 3 : Comité d'activités d'accueil
 
-Article 56 : Fonctions
+Article 57 : Fonctions
 
 Le comité d'activités d'accueil assure l'organisation des activités accueil avant la rentrée d'automne et assure l'organisation du financement de ces activités.
 
-Article 57 : Subordination
+Article 58 : Subordination
 
 Le comité d'activités d'accueil est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 58 : Formation
+Article 59 : Formation
 
 - a. Le comité d'activités d'accueil est formé lors de l'assemblée générale annuelle. Il est ouvert à tous, chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
@@ -590,15 +600,15 @@ Article 59 : Dispositions financières
 
 Section 4 : Comité _L'Axiomatique_
 
-Article 61 : Fonctions
+Article 62 : Fonctions
 
 _L'Axiomatique_ est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
 
-Article 62 : Subordination
+Article 63 : Subordination
 
 Le comité _L'Axiomatique_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 63 : Formation
+Article 64 : Formation
 
 - a. Le comité _L'Axiomatique_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
@@ -606,7 +616,7 @@ Article 63 : Formation
 
 - c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
-Article 64 : Responsabilités
+Article 65 : Responsabilités
 
 - a. Un membre du conseil exécutif se charge de faire le lien entre le comité et le conseil exécutif.
 
@@ -620,11 +630,11 @@ Article 64 : Dispositions financières
 
 Section 5 : Comité _Humains d'Aisenstadt_
 
-Article 66 : Fonctions
+Article 67 : Fonctions
 
 _Humains d'Aisenstadt_ est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
 
-Article 67 : Subordination
+Article 68 : Subordination
 
 Le comité _Humains d'Aisenstadt_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
@@ -642,7 +652,7 @@ Article 68 : Responsabilités
 
 - b. Le comité se charge d'établir les responsabilités de chacun de ses membres.
 
-Article 70 : Dispositions financières
+Article 71 : Dispositions financières
 
 - a. Le comité _Humains d'Aisenstadt_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
@@ -650,15 +660,15 @@ Article 70 : Dispositions financières
 
 Section 6 : Comité _Équité, diversité et inclusion_
 
-Article 71 : Fonctions
+Article 72 : Fonctions
 
 Le comité EDI est une initiative visant à promouvoir l'équité, la diversité et l'inclusion au sein du département et des activités associatives.
 
-Article 72 : Subordination
+Article 73 : Subordination
 
 Le comité EDI est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-Article 73 : Formation
+Article 74 : Formation
 
 - a. Le comité EDI est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
@@ -666,13 +676,13 @@ Article 73 : Formation
 
 - c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
-Article 74 : Responsabilités
+Article 75 : Responsabilités
 
 - a. Un membre du conseil exécutif se charge de faire le lien entre le comité et le conseil exécutif;
 
 - b. Le comité se charge d'établir les responsabilités de chacun de ses membres.
 
-Article 75 : Dispositions financières
+Article 76 : Dispositions financières
 
 - a. Le comité EDI est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
@@ -680,7 +690,7 @@ Article 75 : Dispositions financières
 
 Section 7 : Formation de comité
 
-Article 76 : Formation de comité
+Article 77 : Formation de comité
 
 - a. L'assemblée générale et le conseil exécutif ont le pouvoir de former tout autre comité qu'ils jugeront nécessaire afin d'atteindre les buts de l'A.E.M.S.U.M.;
 
@@ -698,23 +708,23 @@ Article 76 : Formation de comité
 
 CHAPITRE VII : DISPOSITIONS FINANCIÈRES
 
-Article 77 : Exercice financier
+Article 78 : Exercice financier
 
 L'exercice financier de l'A.E.M.S.U.M. débute à la première journée suivant la session d'hiver et se termine à la dernière journée de cours de la session d'hiver suivante.
 
-Article 78 : États financiers
+Article 79 : États financiers
 
 Les états financiers de l'A.E.M.S.U.M. doivent être présentés pour adoption à l'assemblée générale automnale.
 
-Article 79 : Livres comptables
+Article 80 : Livres comptables
 
 Le conseil exécutif fait tenir par la trésorerie un ou des livres dans lesquelles seront inscrits tous les biens de l'A.E.M.S.U.M. et chacune de ses transactions financières.
 
-Article 80 : Compte de banque
+Article 81 : Compte de banque
 
 Le trésorier, le président et le ou les vice-présidents/secrétaires sont signataires du compte de banque de l'A.E.M.S.U.M. Deux de ces personnes doivent signer.
 
-Article 81 : Dépenses
+Article 82 : Dépenses
 
 - a. Aucun chèque en blanc ne doit être signé;
 
@@ -724,22 +734,20 @@ Article 81 : Dépenses
 
 CHAPITRE VIII : CAHIER DE POSITIONS
 
-Article 82 : Rôle
+Article 83 : Rôle
 
 Le cahier de position de l'A.E.M.S.U.M. regroupe les positions et mandats votés en assemblée générale.
 
-Article 83 : Validité
+Article 84 : Validité
 
 Les positions et mandats du cahier de positions ont une période de validité de deux ans mais peuvent être modifiés et votés en assemblée générale avant la fin de cette période. Après cette période, ils doivent être votés à nouveau en assemblée générale. Une position ou un mandat n'obtenant pas la majorité absolue sera supprimé.
 
-Les positions et mandats restent valides tant qu'ils n'ont pas été votés à nouveau en assemblée générale.
-
 CHAPITRE IX : ENTRÉE EN VIGUEUR
 
-Article 84 : Annulation
+Article 85 : Annulation
 
 Le présent article abroge et annule tous les articles de la présente charte de l'A.E.M.S.U.M. en vigueur avant le 19 septembre 2023.
 
-Article 85 : Entrée en vigueur
+Article 86 : Entrée en vigueur
 
 La présente charte est entrée en vigueur le 11 septembre 2024.
