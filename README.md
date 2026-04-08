@@ -90,7 +90,7 @@ Le code de procédure pour les assemblées générales et le conseil exécutif e
 
 Article 12 : Écriture inclusive
 
-Dans la présente charte, les termes « membre », « étudiant », « représentant » et autres formes au masculin sont utilisés à titre épicène afin d'alléger le texte. Ils désignent les personnes de tous genres sans distinction. L'A.E.M.S.U.M. s'engage à l'égalité de genre et à l'inclusivité pour l'ensemble de ses membres.
+Dans la présente charte, les termes « membre », « étudiant », « représentant » et autres formes au masculin sont utilisés à titre épicène afin d'alléger le texte. Ils désignent les personnes de tous genres sans distinction.
 
 CHAPITRE II : ASSEMBLÉES DES MEMBRES
 
