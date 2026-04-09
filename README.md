@@ -15,6 +15,13 @@ CHAPITRE IV : Conseil exécutif
 CHAPITRE V : Participation aux instances
 
 CHAPITRE VI : Comités
+- Section 1 : Café du pavillon André-Aisenstadt
+- Section 2 : Comité des finissants
+- Section 3 : Comité d'activités d'accueil
+- Section 4 : Comité L'Axiomatique
+- Section 5 : Comité Humains d'Aisenstadt
+- Section 6 : Comité Équité, diversité et inclusion
+- Section 7 : Formation de comité
 
 CHAPITRE VII : Dispositions financières
 
@@ -456,7 +463,7 @@ a. Un conflit d'intérêts survient lorsqu'un membre du conseil exécutif ou un 
 
 b. Tout membre du conseil exécutif ou représentant ayant un conflit d'intérêts réel ou potentiel doit le divulguer avant toute délibération ou vote sur la question concernée. La divulgation est faite verbalement et consignée au procès-verbal.
 
-c. Tout membre ayant déclaré un conflit d'intérêts doit se retirer des délibérations et s'abstenir de voter sur la question concernée.
+c. Tout membre ayant déclaré un conflit d'intérêts doit quitter la salle durant les délibérations et s'abstenir de voter sur la question concernée.
 
 d. Si un membre omet de divulguer un conflit d'intérêts et que cela est démontré ultérieurement, le conseil exécutif peut annuler la décision prise et tenir un nouveau vote.
 
@@ -478,7 +485,7 @@ La durée du mandat est d'un an. Toutefois, tout mandat expire le lendemain de l
 
 Article 40 : Vacance
 
-Un poste de membre du conseil exécutif est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, la procédure définie à l'article 42 de la présente charte s'applique.
+Un poste de membre du conseil exécutif est déclaré vacant si aucune personne ne se présente à ce poste lors de l'élection, s'il y a démission ou destitution. Dans ce cas, la procédure définie à l'article 43 de la présente charte s'applique.
 
 Article 41 : Démission
 
@@ -496,7 +503,7 @@ Article 42 : Destitution
 
 Article 43 : Élection partielle
 
-Une fois la répartition des postes entre les membres du conseil exécutif établie, Si un ou plusieurs postes sont vacants suite à la démission ou à la destitution de l'un ou de plusieurs de ces derniers, il y aura élection partielle dans le but de pourvoir le ou les postes précédemment occupés par la ou les personnes en question. Les autres modalités d'élection sont définies à l'articles 22 et à l'article 23 de la présente charte.
+Une fois la répartition des postes entre les membres du conseil exécutif établie, Si un ou plusieurs postes sont vacants suite à la démission ou à la destitution de l'un ou de plusieurs de ces derniers, il y aura élection partielle dans le but de pourvoir le ou les postes précédemment occupés par la ou les personnes en question. Les autres modalités d'élection sont définies à l'article 22 et à l'article 23 de la présente charte.
 
 Article 44 : Dissolution du conseil exécutif
 
