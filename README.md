@@ -47,15 +47,15 @@ Le siège social de l'A.E.M.S.U.M. est sis à Montréal, au 2920, chemin des ser
 
 Article 4 : Buts généraux
 
-a. Regrouper les étudiants du département de Mathématiques et Statistique de l'Université de Montréal dans une seule organisation qui les représente sans discrimination;
+a\. Regrouper les étudiants du département de Mathématiques et Statistique de l'Université de Montréal dans une seule organisation qui les représente sans discrimination;
 
-b. Assurer le bien-être physique, moral, intellectuel, social, économique et académique de ses membres;
+b\. Assurer le bien-être physique, moral, intellectuel, social, économique et académique de ses membres;
 
-c. Coordonner les efforts des représentants;
+c\. Coordonner les efforts des représentants;
 
-d. Inciter les membres à s'engager dans leur milieu;
+d\. Inciter les membres à s'engager dans leur milieu;
 
-e. Prendre position prioritairement sur des questions à caractère étudiant.
+e\. Prendre position prioritairement sur des questions à caractère étudiant.
 
 Article 5 : Buts particuliers
 
