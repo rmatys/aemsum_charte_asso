@@ -462,7 +462,7 @@ d. Si un membre omet de divulguer un conflit d'intérêts et que cela est démon
 
 Article 36 : Quorum
 
-Le quorum lors des réunions du conseil exécutif est fixé à deux tiers (2/3), c'estàdire la partie entière de deux tiers (2/3) des membres.
+Le quorum lors des réunions du conseil exécutif est fixé à deux tiers (2/3), c'est-à-dire la partie entière de deux tiers (2/3) des membres.
 
 Article 37 : Réunions
 
