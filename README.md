@@ -459,13 +459,13 @@ Tous les membres du conseil exécutif, sauf le président, ont droit de vote. Le
 
 Article 35 : Conflits d'intérêts
 
-a. Un conflit d'intérêts survient lorsqu'un membre du conseil exécutif ou un représentant a un intérêt personnel, financier ou professionnel susceptible d'influencer, ou de paraître influencer, l'exercice impartial de ses fonctions au sein de l'A.E.M.S.U.M.
+- a. Un conflit d'intérêts survient lorsqu'un membre du conseil exécutif ou un représentant a un intérêt personnel, financier ou professionnel susceptible d'influencer, ou de paraître influencer, l'exercice impartial de ses fonctions au sein de l'A.E.M.S.U.M.
 
-b. Tout membre du conseil exécutif ou représentant ayant un conflit d'intérêts réel ou potentiel doit le divulguer avant toute délibération ou vote sur la question concernée. La divulgation est faite verbalement et consignée au procès-verbal.
+- b. Tout membre du conseil exécutif ou représentant ayant un conflit d'intérêts réel ou potentiel doit le divulguer avant toute délibération ou vote sur la question concernée. La divulgation est faite verbalement et consignée au procès-verbal.
 
-c. Tout membre ayant déclaré un conflit d'intérêts doit quitter la salle durant les délibérations et s'abstenir de voter sur la question concernée.
+- c. Tout membre ayant déclaré un conflit d'intérêts doit quitter la salle durant les délibérations et s'abstenir de voter sur la question concernée.
 
-d. Si un membre omet de divulguer un conflit d'intérêts et que cela est démontré ultérieurement, le conseil exécutif peut annuler la décision prise et tenir un nouveau vote.
+- d. Si un membre omet de divulguer un conflit d'intérêts et que cela est démontré ultérieurement, le conseil exécutif peut annuler la décision prise et tenir un nouveau vote.
 
 Article 36 : Quorum
 
