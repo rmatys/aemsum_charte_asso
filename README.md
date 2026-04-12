@@ -434,7 +434,11 @@ Article 32 : Devoir des membres du conseil exécutif
 
 - a. Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu d'assister à toutes les réunions du conseil exécutif, sauf pour des motifs hors de sa volonté;
 
-- b. Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu de laisser des traces des activités de l'A.E.M.S.U.M. pour les années suivantes.
+- b. Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu de laisser des traces des activités de l'A.E.M.S.U.M. pour les années suivantes;
+
+- c. Tout membre du conseil exécutif détenant les droits d'administrateur sur un compte ou une plateforme numérique au nom de l'A.E.M.S.U.M. (tels que Zeffy, Discord, Instagram, GitHub, etc.) doit effectuer la transition de ces droits vers le compte officiel de l'A.E.M.S.U.M. (aemsum@dms.umontreal.ca) ou vers le conseil exécutif entrant avant la fin de son mandat;
+
+- d. Dans la mesure du possible, tout compte ou plateforme numérique créé au nom de l'A.E.M.S.U.M. doit être administré à partir du compte officiel de l'A.E.M.S.U.M. (aemsum@dms.umontreal.ca) dès sa création.
 
 Article 33 : Représentation des orientations
 
@@ -573,6 +577,8 @@ Article 51 : Bénévoles
 - b. Le bénévole est redevable devant le comité du café du pavillon André-Aisenstadt;
 
 - c. Chaque membre du conseil exécutif doit être bénévole au café du pavillon André-Aisenstadt;
+
+- d. Dans les cas où il est impossible pour un membre du conseil exécutif d'être bénévole au café du pavillon André-Aisenstadt, ce membre doit accomplir au minimum dix (10) heures de bénévolat dans le cadre des activités de l'A.E.M.S.U.M. au cours de son mandat;
 
 Section 2 : Comité des finissants
 
@@ -758,22 +764,30 @@ Article 82 : Dépenses
 
 - c. Toute dépense inscrite aux livres comptables doit être accompagnée de pièces justificatives.
 
+Article 83 : Coffre de l'A.E.M.S.U.M.
+
+- a. L'A.E.M.S.U.M. possède un coffre situé dans ses locaux contenant notamment les liquidités, les clés importantes et les documents officiels de l'association;
+
+- b. L'accès au code du coffre est réservé exclusivement au président, au vice-président et à au moins un des membres du groupe CVE du conseil exécutif;
+
+- c. Le code d'accès au coffre doit être modifié au moins une fois par année, lors du renouvellement du conseil exécutif, afin d'empêcher les anciens membres d'y avoir accès.
+
 CHAPITRE VIII : CAHIER DE POSITIONS
 
-Article 83 : Rôle
+Article 84 : Rôle
 
 Le cahier de position de l'A.E.M.S.U.M. regroupe les positions et mandats votés en assemblée générale.
 
-Article 84 : Validité
+Article 85 : Validité
 
 Les positions et mandats du cahier de positions ont une période de validité de deux ans mais peuvent être modifiés et votés en assemblée générale avant la fin de cette période. Après cette période, ils doivent être votés à nouveau en assemblée générale. Une position ou un mandat n'obtenant pas la majorité absolue sera supprimé.
 
 CHAPITRE IX : ENTRÉE EN VIGUEUR
 
-Article 85 : Annulation
+Article 86 : Annulation
 
 Le présent article abroge et annule tous les articles de la présente charte de l'A.E.M.S.U.M. en vigueur avant le 19 septembre 2023.
 
-Article 86 : Entrée en vigueur
+Article 87 : Entrée en vigueur
 
 La présente charte est entrée en vigueur le 11 septembre 2024.
