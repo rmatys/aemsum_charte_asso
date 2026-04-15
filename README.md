@@ -15,6 +15,7 @@ CHAPITRE IV : Conseil exécutif
 CHAPITRE V : Participation aux instances
 
 CHAPITRE VI : Comités
+
 - Section 1 : Café du pavillon André-Aisenstadt
 - Section 2 : Comité des finissants
 - Section 3 : Comité d'activités d'accueil
@@ -227,7 +228,7 @@ Article 24 : Membres du conseil exécutif
 
 Article 25 : Représentants à l'assemblée départementale
 
-En vertu de l'article 31.01 des statuts de l'Université de Montréal, les représentants à l'assemblée départementale doivent être élus en assemblée générale. Le président, le délégué aux affaires académiques et le délégué aux affaires académiques 1<sup>ère</sup> année sont élus d'office membres de la délégation des sept (7) représentants. Les autres représentants à l'assemblée départementale sont élus lors de l'assemblée générale annuelle. Les modalités d'élection sont définies par l'article 23 de la présente charte.
+En vertu de l'article 31.01 des statuts de l'Université de Montréal, les représentants à l'assemblée départementale doivent être élus en assemblée générale. Le président, le délégué aux affaires académiques et le délégué aux affaires académiques 1re année sont élus d'office membres de la délégation des sept (7) représentants. Les autres représentants à l'assemblée départementale sont élus lors de l'assemblée générale annuelle. Les modalités d'élection sont définies par l'article 23 de la présente charte.
 
 Article 26 : Vacance
 
@@ -272,11 +273,11 @@ Article 29 : Rôle
 Article 30 : Composition
 
 - a. Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 33 occupent des rôles seniors consultatifs. Le niveau est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min(⌊n/2⌋+1, 3)
-    - *Exemple d'application de la formule de niveau : un étudiant ayant complété 3 sessions obtient min(⌊3/2⌋+1, 3) = min(2, 3) = niveau 2 ; après 4 sessions : min(⌊4/2⌋+1, 3) = min(3, 3) = niveau 3 (maximum).*
+  - *Exemple d'application de la formule de niveau : un étudiant ayant complété 3 sessions obtient min(⌊3/2⌋+1, 3) = min(2, 3) = niveau 2 ; après 4 sessions : min(⌊4/2⌋+1, 3) = min(3, 3) = niveau 3 (maximum).*
 
 - b. Si aucun candidat du niveau du poste ne se présente pour ce poste, il est ouvert à tous les membres.
 
-- c. Les postes sont, dans l'ordre, les suivants : Président, Vice-Président délégué aux affaires internes, Trésorier, Vice-Président aux affaires externes, Coordonnateur à la vie étudiante senior (1), Coordonnateur à la vie étudiante senior (2), Coordonnateur à la vie étudiante senior (3), Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant, Délégué aux affaires internes 1<sup>re</sup> année, Coordonnateur à la vie étudiante 1<sup>re</sup> année (1), Coordonnateur à la vie étudiante 1<sup>re</sup> année (2), Délégué aux affaires externes 1<sup>re</sup> année, Délégué aux affaires académiques 1<sup>re</sup> année, Responsable du café étudiant 1<sup>re</sup> année;
+- c. Les postes sont, dans l'ordre, les suivants : Président, Vice-Président délégué aux affaires internes, Trésorier, Vice-Président aux affaires externes, Coordonnateur à la vie étudiante senior (1), Coordonnateur à la vie étudiante senior (2), Coordonnateur à la vie étudiante senior (3), Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant, Délégué aux affaires internes 1re année, Coordonnateur à la vie étudiante 1re année (1), Coordonnateur à la vie étudiante 1re année (2), Délégué aux affaires externes 1re année, Délégué aux affaires académiques 1re année, Responsable du café étudiant 1re année;
 
 - d. Le conseil exécutif peut, selon son bon vouloir, changer les postes, cependant la réorganisation devra être approuvée à la première assemblée générale suivant cette réorganisation.
 
@@ -436,9 +437,9 @@ Article 32 : Devoir des membres du conseil exécutif
 
 - b. Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu de laisser des traces des activités de l'A.E.M.S.U.M. pour les années suivantes;
 
-- c. Tout membre du conseil exécutif détenant les droits d'administrateur sur un compte ou une plateforme numérique au nom de l'A.E.M.S.U.M. (tels que Zeffy, Discord, Instagram, GitHub, etc.) doit effectuer la transition de ces droits vers le compte officiel de l'A.E.M.S.U.M. (aemsum@dms.umontreal.ca) ou vers le conseil exécutif entrant avant la fin de son mandat;
+- c. Tout membre du conseil exécutif détenant les droits d'administrateur sur un compte ou une plateforme numérique au nom de l'A.E.M.S.U.M. (tels que Zeffy, Discord, Instagram, GitHub, etc.) doit effectuer la transition de ces droits vers le compte officiel de l'A.E.M.S.U.M. (<aemsum@dms.umontreal.ca>) ou vers le conseil exécutif entrant avant la fin de son mandat;
 
-- d. Dans la mesure du possible, tout compte ou plateforme numérique créé au nom de l'A.E.M.S.U.M. doit être administré à partir du compte officiel de l'A.E.M.S.U.M. (aemsum@dms.umontreal.ca) dès sa création.
+- d. Dans la mesure du possible, tout compte ou plateforme numérique créé au nom de l'A.E.M.S.U.M. doit être administré à partir du compte officiel de l'A.E.M.S.U.M. (<aemsum@dms.umontreal.ca>) dès sa création.
 
 Article 33 : Représentation des orientations
 
@@ -630,21 +631,21 @@ Article 61 : Dispositions financières
 
 - b. Le conseil exécutif possède à tout moment mainmise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-à-dire la partie entière des trois quarts (3/4) des membres présents.
 
-Section 4 : Comité _L'Axiomatique_
+Section 4 : Comité *L'Axiomatique*
 
 Article 62 : Fonctions
 
-_L'Axiomatique_ est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
+*L'Axiomatique* est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
 
 Article 63 : Subordination
 
-Le comité _L'Axiomatique_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
+Le comité *L'Axiomatique* est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
 Article 64 : Formation
 
-- a. Le comité _L'Axiomatique_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
+- a. Le comité *L'Axiomatique* est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
-- b. Au moins un membre du conseil exécutif doit être membre du comité _L'Axiomatique_;
+- b. Au moins un membre du conseil exécutif doit être membre du comité *L'Axiomatique*;
 
 - c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
@@ -656,25 +657,25 @@ Article 65 : Responsabilités
 
 Article 66 : Dispositions financières
 
-- a. Le comité _L'Axiomatique_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
+- a. Le comité *L'Axiomatique* est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
 - b. Le conseil exécutif possède à tout moment mainmise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-à-dire la partie entière des trois quarts (3/4) des membres présents.
 
-Section 5 : Comité _Humains d'Aisenstadt_
+Section 5 : Comité *Humains d'Aisenstadt*
 
 Article 67 : Fonctions
 
-_Humains d'Aisenstadt_ est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
+*Humains d'Aisenstadt* est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
 
 Article 68 : Subordination
 
-Le comité _Humains d'Aisenstadt_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
+Le comité *Humains d'Aisenstadt* est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
 Article 69 : Formation
 
-- a. Le comité _Humains d'Aisenstadt_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
+- a. Le comité *Humains d'Aisenstadt* est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
-- b. Au moins un membre du conseil exécutif doit être membre du comité _Humains d'Aisenstadt_.
+- b. Au moins un membre du conseil exécutif doit être membre du comité *Humains d'Aisenstadt*.
 
 - c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
@@ -686,11 +687,11 @@ Article 70 : Responsabilités
 
 Article 71 : Dispositions financières
 
-- a. Le comité _Humains d'Aisenstadt_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
+- a. Le comité *Humains d'Aisenstadt* est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
 - b. Le conseil exécutif possède à tout moment mainmise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-à-dire la partie entière des trois quarts (3/4) des membres présents.
 
-Section 6 : Comité _Équité, diversité et inclusion_
+Section 6 : Comité *Équité, diversité et inclusion*
 
 Article 72 : Fonctions
 
