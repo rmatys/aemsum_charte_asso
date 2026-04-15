@@ -15,6 +15,7 @@ CHAPITRE IV : Conseil exécutif
 CHAPITRE V : Participation aux instances
 
 CHAPITRE VI : Comités
+
 - Section 1 : Café du pavillon André-Aisenstadt
 - Section 2 : Comité des finissants
 - Section 3 : Comité d'activités d'accueil
@@ -225,7 +226,7 @@ Article 24 : Membres du conseil exécutif
 
 Article 25 : Représentants à l'assemblée départementale
 
-En vertu de l'article 31.01 des statuts de l'Université de Montréal, les représentants à l'assemblée départementale doivent être élus en assemblée générale. Le président, le délégué aux affaires académiques et le délégué aux affaires académiques 1<sup>ère</sup> année sont élus d'office membres de la délégation des sept (7) représentants. Les autres représentants à l'assemblée départementale sont élus lors de l'assemblée générale annuelle. Les modalités d'élection sont définies par l'article 23 de la présente charte.
+En vertu de l'article 31.01 des statuts de l'Université de Montréal, les représentants à l'assemblée départementale doivent être élus en assemblée générale. Le président, le délégué aux affaires académiques et le délégué aux affaires académiques 1re année sont élus d'office membres de la délégation des sept (7) représentants. Les autres représentants à l'assemblée départementale sont élus lors de l'assemblée générale annuelle. Les modalités d'élection sont définies par l'article 23 de la présente charte.
 
 Article 26 : Vacance
 
@@ -433,9 +434,9 @@ Article 31 : Devoir des membres du conseil exécutif
 
 - b. Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu de laisser des traces des activités de l'A.E.M.S.U.M. pour les années suivantes;
 
-- c. Tout membre du conseil exécutif détenant les droits d'administrateur sur un compte ou une plateforme numérique au nom de l'A.E.M.S.U.M. (tels que Zeffy, Discord, Instagram, GitHub, etc.) doit effectuer la transition de ces droits vers le compte officiel de l'A.E.M.S.U.M. (aemsum@dms.umontreal.ca) ou vers le conseil exécutif entrant avant la fin de son mandat;
+- c. Tout membre du conseil exécutif détenant les droits d'administrateur sur un compte ou une plateforme numérique au nom de l'A.E.M.S.U.M. (tels que Zeffy, Discord, Instagram, GitHub, etc.) doit effectuer la transition de ces droits vers le compte officiel de l'A.E.M.S.U.M. (<aemsum@dms.umontreal.ca>) ou vers le conseil exécutif entrant avant la fin de son mandat;
 
-- d. Dans la mesure du possible, tout compte ou plateforme numérique créé au nom de l'A.E.M.S.U.M. doit être administré à partir du compte officiel de l'A.E.M.S.U.M. (aemsum@dms.umontreal.ca) dès sa création.
+- d. Dans la mesure du possible, tout compte ou plateforme numérique créé au nom de l'A.E.M.S.U.M. doit être administré à partir du compte officiel de l'A.E.M.S.U.M. (<aemsum@dms.umontreal.ca>) dès sa création.
 
 Article 32 :
 
@@ -611,21 +612,21 @@ Article 59 : Dispositions financières
 
 - b. Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
 
-Section 4 : Comité _L'Axiomatique_
+Section 4 : Comité *L'Axiomatique*
 
 Article 62 : Fonctions
 
-_L'Axiomatique_ est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
+*L'Axiomatique* est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
 
 Article 63 : Subordination
 
-Le comité _L'Axiomatique_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
+Le comité *L'Axiomatique* est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
 Article 64 : Formation
 
-- a. Le comité _L'Axiomatique_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
+- a. Le comité *L'Axiomatique* est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
-- b. Au moins un membre du conseil exécutif doit être membre du comité _L'Axiomatique_;
+- b. Au moins un membre du conseil exécutif doit être membre du comité *L'Axiomatique*;
 
 - c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
@@ -637,25 +638,25 @@ Article 65 : Responsabilités
 
 Article 64 : Dispositions financières
 
-- a. Le comité _L'Axiomatique_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
+- a. Le comité *L'Axiomatique* est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
 - b. Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
 
-Section 5 : Comité _Humains d'Aisenstadt_
+Section 5 : Comité *Humains d'Aisenstadt*
 
 Article 67 : Fonctions
 
-_Humains d'Aisenstadt_ est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
+*Humains d'Aisenstadt* est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
 
 Article 68 : Subordination
 
-Le comité _Humains d'Aisenstadt_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
+Le comité *Humains d'Aisenstadt* est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
 Article 67 : Formation
 
 - a. Le comité _Humains d'Ainsenstadt_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceuxci ayant droit de vote, de proposition et de parole;
 
-- b. Au moins un membre du conseil exécutif doit être membre du comité _Humains d'Aisenstadt_.
+- b. Au moins un membre du conseil exécutif doit être membre du comité *Humains d'Aisenstadt*.
 
 - c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
@@ -667,11 +668,11 @@ Article 68 : Responsabilités
 
 Article 71 : Dispositions financières
 
-- a. Le comité _Humains d'Aisenstadt_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
+- a. Le comité *Humains d'Aisenstadt* est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
 - b. Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-à-dire la partie entière des trois quarts (3/4) des membres présents.
 
-Section 6 : Comité _Équité, diversité et inclusion_
+Section 6 : Comité *Équité, diversité et inclusion*
 
 Article 72 : Fonctions
 
