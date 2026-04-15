@@ -82,7 +82,7 @@ L'A.E.M.S.U.M. est affiliée à la Fédération des Associations étudiantes du 
 
 Article 9 : Modification de la charte
 
-L'assemblée générale seule peut décider d'amender la présente charte par un vote des deux tiers (2/3) des membres présents. L'avis de convocation doit obligatoirement faire mention de tout article visé. Le texte complet des amendements proposés doit être diffusé à l'ensemble des membres au moins sept (7) jours avant la tenue de l'assemblée générale.
+L'assemblée générale seule peut décider d'amender la présente charte par un vote des deux tiers (2/3) des membres présents. L'avis de convocation doit obligatoirement faire mention de tout article visé. Le texte complet des amendements proposés doit être diffusé à l'ensemble des membres au moins sept (7) jours calendaire avant la tenue de l'assemblée générale.
 
 Article 10 : Dissolution de l'A.E.M.S.U.M.
 
@@ -272,7 +272,7 @@ Article 30 : Composition
 
 - a. Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 32 occupent des rôles seniors consultatifs. Le niveau est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min (⌊n/2⌋+1, 3))
 
-- b. Si aucun candidat du niveau du poste ne se présente pour ce poste, il est ouvert à tous les membres.
+- b. Si aucun candidat du niveau d'étude associé au poste ne se présente, il est ouvert à tous les membres.
 
 - c. Les postes sont, dans l'ordre, les suivants : Président, Vice-Président délégué aux affaires internes, Trésorier, VicePrésident aux affaires externes, Coordonnateur à la vie étudiante 3<sup>e</sup> année, Coordonnateur à la vie étudiante 2<sup>e</sup> année, Coordonnateur à la vie étudiante aux activités socioculturelles, Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant, Délégué aux affaires internes 1<sup>re</sup> année, Coordonnateur à la vie étudiante 1<sup>re</sup> année, Coordonnateur à la vie étudiante aux activités socioculturelles 1re année, Délégué aux affaires externes 1<sup>re</sup> année, Délégué aux affaires académiques 1<sup>re</sup> année, Responsable du café étudiant 1<sup>re</sup> année;
 
@@ -566,7 +566,7 @@ Section 2 : Comité des finissants
 
 Article 52 : Fonctions
 
-Le comité des finissants assure l'organisation des activités de finissants (p. ex. sondage, bal, collation des grades, photos, bagues) et assure l'organisation du financement de ces activités.
+Le comité des finissants assure l'organisation des activités de finissants (ex: sondage, bal, collation des grades, photos, bagues) et assure l'organisation du financement de ces activités.
 
 Article 53 : Subordination
 
@@ -616,7 +616,7 @@ Section 4 : Comité *L'Axiomatique*
 
 Article 62 : Fonctions
 
-*L'Axiomatique* est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
+*L'Axiomatique* est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
 
 Article 63 : Subordination
 
@@ -750,7 +750,7 @@ Article 83 : Coffre de l'A.E.M.S.U.M.
 
 - a. L'A.E.M.S.U.M. possède un coffre situé dans ses locaux contenant notamment les liquidités, les clés importantes et les documents officiels de l'association;
 
-- b. L'accès au code du coffre est réservé exclusivement au président, au vice-président et à au moins un des membres du groupe CVE du conseil exécutif;
+- b. L'accès au code du coffre est réservé exclusivement au Président, au Vice-Président Interne et à au moins un des CVE et/ou CVES du conseil exécutif;
 
 - c. Le code d'accès au coffre doit être modifié au moins une fois par année, lors du renouvellement du conseil exécutif, afin d'empêcher les anciens membres d'y avoir accès.
 
