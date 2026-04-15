@@ -84,7 +84,7 @@ L'A.E.M.S.U.M. est affiliée à la Fédération des Associations étudiantes du 
 
 Article 9 : Modification de la charte
 
-L'assemblée générale seule peut décider d'amender la présente charte par un vote des deux tiers (2/3) des membres présents. L'avis de convocation doit obligatoirement faire mention de tout article visé. Le texte complet des amendements proposés doit être diffusé à l'ensemble des membres au moins sept (7) jours avant la tenue de l'assemblée générale.
+L'assemblée générale seule peut décider d'amender la présente charte par un vote des deux tiers (2/3) des membres présents. L'avis de convocation doit obligatoirement faire mention de tout article visé. Le texte complet des amendements proposés doit être diffusé à l'ensemble des membres au moins sept (7) jours calendaire avant la tenue de l'assemblée générale.
 
 Article 10 : Dissolution de l'A.E.M.S.U.M.
 
@@ -122,7 +122,7 @@ Article 14 : Assemblée générale annuelle
 
 - f. L'assemblée générale annuelle peut statuer sur toute question qu'elle juge à propos;
 
-- g. Lors de cette assemblée générale, le niveau de chaque membre est déterminé selon l'année à laquelle il sera inscrit à l'automne suivant.
+- g. Lors de cette assemblée générale, le niveau d'étude de chaque membre est déterminé selon l'année à laquelle il sera inscrit à l'automne suivant.
 
 Article 15 : Assemblée générale d'automne
 
@@ -194,7 +194,7 @@ Article 22 : Élection du conseil exécutif
 
 - f. Lorsque tous les candidats à une même charge ont été mis en nomination, le président des élections déclare les nominations closes;
 
-- g. Les élections se font dans l'ordre suivant : Président, Vice-Président interne, Trésorier, Vice-Président aux affaires externes, Coordonnateur à la vie étudiante, Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant;
+- g. Les élections se font dans l'ordre suivant : Président, Vice-Président interne, Trésorier, Vice-Président aux affaires externes, Coordonnateur à la vie étudiante, Coordonnateur à la vie étudiante aux activités socioculturelles, Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant;
 
 - h. Chacun des postes est soumis à un vote à majorité simple. Une chaise est présentée contre le ou les candidats. Un candidat défait peut se présenter à un autre poste;
 
@@ -272,12 +272,12 @@ Article 29 : Rôle
 
 Article 30 : Composition
 
-- a. Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 33 occupent des rôles seniors consultatifs. Le niveau est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min(⌊n/2⌋+1, 3)
-  - *Exemple d'application de la formule de niveau : un étudiant ayant complété 3 sessions obtient min(⌊3/2⌋+1, 3) = min(2, 3) = niveau 2 ; après 4 sessions : min(⌊4/2⌋+1, 3) = min(3, 3) = niveau 3 (maximum).*
+- a. Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 33 occupent des rôles seniors consultatifs. Le niveau d'étude est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min(⌊n/2⌋+1, 3)
+  - *Exemple d'application de la formule du niveau d'étude : un étudiant ayant complété 3 sessions obtient min(⌊3/2⌋+1, 3) = min(2, 3) = niveau 2 ; après 4 sessions : min(⌊4/2⌋+1, 3) = min(3, 3) = niveau 3 (maximum). Ce qui correspond à trois années d’études.*
 
-- b. Si aucun candidat du niveau du poste ne se présente pour ce poste, il est ouvert à tous les membres.
+- b. Si aucun candidat du niveau d'étude associé au poste ne se présente, il est ouvert à tous les membres.
 
-- c. Les postes sont, dans l'ordre, les suivants : Président, Vice-Président délégué aux affaires internes, Trésorier, Vice-Président aux affaires externes, Coordonnateur à la vie étudiante senior (1), Coordonnateur à la vie étudiante senior (2), Coordonnateur à la vie étudiante senior (3), Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant, Délégué aux affaires internes 1re année, Coordonnateur à la vie étudiante 1re année (1), Coordonnateur à la vie étudiante 1re année (2), Délégué aux affaires externes 1re année, Délégué aux affaires académiques 1re année, Responsable du café étudiant 1re année;
+- c. Les postes sont, dans l'ordre, les suivants : Président, Vice-Président délégué aux affaires internes, Trésorier, Vice-Président aux affaires externes, Coordonnateur à la vie étudiante senior (2), Coordonnateur à la vie étudiante aux activités socioculturelles senior, Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant, Délégué aux affaires internes 1re année, Coordonnateur à la vie étudiante 1re année, Coordonnateur à la vie étudiante aux activités socioculturelles 1re année, Délégué aux affaires externes 1re année, Délégué aux affaires académiques 1re année, Responsable du café étudiant 1re année;
 
 - d. Le conseil exécutif peut, selon son bon vouloir, changer les postes, cependant la réorganisation devra être approuvée à la première assemblée générale suivant cette réorganisation.
 
@@ -383,7 +383,7 @@ Article 31 : Responsabilités des membres du conseil exécutif
 
 - g. Coordonnateurs à la vie étudiante :
 
-  - Responsables de l'organisation et de la promotion des activités sociales, socioculturelles, sportives et culturelles de l'A.E.M.S.U.M.;
+  - Responsables de l'organisation des activités sociales de l'A.E.M.S.U.M.;
 
   - Coordonnent les activités de la rentrée;
 
@@ -391,15 +391,21 @@ Article 31 : Responsabilités des membres du conseil exécutif
 
   - S'assurent que les activités proposées par l'A.E.M.S.U.M. soient variées et viennent rejoindre les intérêts des membres;
 
-  - S'engagent à offrir des activités avec ou sans alcool pour les membres;
-
   - S'occupent du matériel promotionnel de l'A.E.M.S.U.M.;
 
   - Siègent au conseil de la vie étudiante de la F.A.É.C.U.M.;
 
   - Donnent un compte-rendu au conseil exécutif de ces réunions.
 
-- h. Coordonnateur aux affaires professionnelles :
+- h. Coordonnateur à la vie étudiante aux activités socioculturelles :
+
+  - S'assurent que les activités proposées par l'A.E.M.S.U.M. soient variées et viennent rejoindre les intérêts des membres;
+
+  - Responsables de l'organisation et de la promotion des activités socioculturelles de l'A.E.M.S.U.M., en priorisant les activités sportives et culturelles;
+
+  - S'engagent à offrir des activités sans alcool.
+
+- i. Coordonnateur aux affaires professionnelles :
 
   - S'occupe de la tenue à jour de la politique des commandites de l'A.E.M.S.U.M.;
 
@@ -419,7 +425,7 @@ Article 31 : Responsabilités des membres du conseil exécutif
 
   - Pour toutes autres responsabilités liées aux tâches de représentant café, se référer à la charte du café;
 
-- i. Délégué aux affaires académiques :
+- j. Délégué aux affaires académiques :
 
   - Responsables des questions touchant le secteur académique;
 
@@ -585,7 +591,7 @@ Section 2 : Comité des finissants
 
 Article 52 : Fonctions
 
-Le comité des finissants assure l'organisation des activités de finissants (p. ex. sondage, bal, collation des grades, photos, bagues) et assure l'organisation du financement de ces activités.
+Le comité des finissants assure l'organisation des activités de finissants (ex: sondage, bal, collation des grades, photos, bagues) et assure l'organisation du financement de ces activités.
 
 Article 53 : Subordination
 
@@ -635,7 +641,7 @@ Section 4 : Comité *L'Axiomatique*
 
 Article 62 : Fonctions
 
-*L'Axiomatique* est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
+*L'Axiomatique* est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
 
 Article 63 : Subordination
 
@@ -769,7 +775,7 @@ Article 83 : Coffre de l'A.E.M.S.U.M.
 
 - a. L'A.E.M.S.U.M. possède un coffre situé dans ses locaux contenant notamment les liquidités, les clés importantes et les documents officiels de l'association;
 
-- b. L'accès au code du coffre est réservé exclusivement au président, au vice-président et à au moins un des membres du groupe CVE du conseil exécutif;
+- b. L'accès au code du coffre est réservé exclusivement au Président, au Vice-Président Interne et à au moins un des CVE et/ou CVES du conseil exécutif;
 
 - c. Le code d'accès au coffre doit être modifié au moins une fois par année, lors du renouvellement du conseil exécutif, afin d'empêcher les anciens membres d'y avoir accès.
 
