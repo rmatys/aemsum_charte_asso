@@ -34,7 +34,9 @@ CHAPITRE I : DISPOSITIONS GÉNÉRALES
 
 Article 1 : Nom
 
-Association des étudiants et étudiantes de Mathématiques et Statistique du premier cycle de l'Université de Montréal. Cette association s'est incorporée en 1982 (en vertu de la troisième partie de la Loi sur les compagnies) et accréditée en 1983 (en vertu de l'article 59 de la Loi 32 sur l'accréditation et le financement des Associations étudiantes).
+Association des étudiants et étudiantes de Mathématiques et Statistique du premier cycle de l'Université de Montréal. Cette association s'est incorporée en
+
+1982 (en vertu de la troisième partie de la Loi sur les compagnies) et accréditée en 1983 (en vertu de l'article 59 de la Loi 32 sur l'accréditation et le financement des Associations étudiantes).
 
 Article 2 : Sigle
 
@@ -72,9 +74,9 @@ Est membre de l'A.E.M.S.U.M. tout étudiant inscrit à un programme de premier c
 
 Article 7 : Cotisation
 
-- a. La cotisation de chaque membre est de 25 \$ par session. Elle est non remboursable. Une somme de 2\$ de la cotisation de chacun des membres est réservée au Comité L'Axiomatique;
+- La cotisation de chaque membre est de 25 \$ par session. Elle est non remboursable. Une somme de 2\$ de la cotisation de chacun des membres est réservée au Comité L'Axiomatique;
 
-- b. Toute modification à la cotisation devra être approuvée par voie référendaire ou lors d'assemblée générale. Les modalités d'un référendum sont définies par l'article 26 de la présente charte.
+- Toute modification à la cotisation devra être approuvée par voie référendaire ou lors d'assemblée générale. Les modalités d'un référendum sont définies par l'article 26 de la présente charte.
 
 Article 8 : Affiliation
 
@@ -86,11 +88,11 @@ L'assemblée générale seule peut décider d'amender la présente charte par un
 
 Article 10 : Dissolution de l'A.E.M.S.U.M.
 
-- a. La dissolution de l'A.E.M.S.U.M. est décidée par voie référendaire. Les modalités d'un référendum sont définies par l'article 26 de la présente charte;
+- La dissolution de l'A.E.M.S.U.M. est décidée par voie référendaire. Les modalités d'un référendum sont définies par l'article 26 de la présente charte;
 
 - b. Le dernier mandat du conseil exécutif sera alors de liquider les biens de l'A.E.M.S.U.M.;
 
-- c. L'argent de l'A.E.M.S.U.M sera distribué équitablement à tous les membres de la défunte.
+- L'argent de l'A.E.M.S.U.M sera distribué équitablement à tous les membres de la défunte.
 
 Article 11 : Code de procédure
 
@@ -102,33 +104,35 @@ Dans la présente charte, les termes « membre », « étudiant », « représen
 
 CHAPITRE II : ASSEMBLÉES DES MEMBRES
 
-Article 12 : Assemblée générale
+Article 13 : Assemblée générale
 
-L'assemblée générale est souveraine, dans la limite de ses pouvoirs, à l'exception des mesures définies aux articles 10 et 41 de la présente charte.
+L'assemblée générale est souveraine, dans la limite de ses pouvoirs, à l'exception des mesures définies à l'article 10 et à l'article 42 de la présente charte.
 
-Article 13 : Assemblée générale annuelle
+Article 14 : Assemblée générale annuelle
 
 - a. L'assemblée générale annuelle des membres de l'A.E.M.S.U.M. aura lieu à la date que le conseil exécutif fixera chaque année;
 
-- b. L'assemblée générale annuelle doit présenter les états financiers de l'exercice qui se termine;
+- L'assemblée générale annuelle des membres de l'A.E.M.S.U.M. aura lieu à la date que le conseil exécutif fixera chaque année;
 
-- c. L'assemblée générale annuelle doit élire les neuf (9) membres 2e et 3e année du conseil exécutif. Les modalités d'élection sont définies aux articles 21 et 23 de la présente charte;
+- L'assemblée générale annuelle doit présenter les états financiers de l'exercice qui se termine;
 
-- d. L'assemblée générale annuelle doit élire les sept (7) représentants de l'A.E.M.S.U.M. à l'assemblée départementale. Les modalités d'élection sont définies aux articles 21 et 24 de la présente charte;
+- L'assemblée générale annuelle doit élire les neuf (9) membres 2e et 3e année du conseil exécutif. Les modalités d'élection sont définies aux articles 21 et 23 de la présente charte;
 
 - e. L'assemblée générale annuelle doit former un comité d'activités d'accueil. Les modalités de ce comité sont définies par la section 3 du chapitre VI de la présente charte;
 
 - f. L'assemblée générale annuelle peut statuer sur toute question qu'elle juge à propos;
 
-- g. Lors de cette assemblée générale, on considère l'année à laquelle les gens seront à l'automne suivant.
+- L'assemblée générale annuelle peut statuer sur toute question qu'elle juge à propos;
+- Lors de cette assemblée générale, on considère l'année à laquelle les gens seront à l'automne suivant.
 
 Article 15 : Assemblée générale d'automne
 
-- a. L'assemblée générale d'automne des membres de l'A.E.M.S.U.M. aura lieu à la date que le conseil exécutif fixera chaque année. Cette assemblée doit se tenir entre la 2 et la 4 semaine de la session d'automne;
+- L'assemblée générale d'automne des membres de l'A.E.M.S.U.M. aura lieu à la date que le conseil exécutif fixera chaque année. Cette assemblée doit se tenir entre la 2 et la 4 semaine de la session d'automne;
 
 - b. L'assemblée générale d'automne doit adopter les états financiers de l'exercice terminé;
 
-- c. L'assemblée générale d'automne doit élire les six (6) membres 1re année du conseil exécutif. Les modalités d'élection sont définies aux articles 21 et 23 de la présente charte;
+- L'assemblée générale d'automne doit élire les six (6) membres 1re année du conseil exécutif. Les modalités d'élection sont définies aux articles 21 et 23 de la présente charte;
+- L'assemblée générale d'automne doit former un comité des finissants. Les modalités de ce comité sont définies par la section 2 du chapitre VI de la présente charte;
 
 - d. L'assemblée générale d'automne doit former un comité des finissants. Les modalités de ce comité sont définies par la section 2 du chapitre VI de la présente charte;
 
@@ -158,7 +162,7 @@ Article 19 : Droits de vote, de parole et de proposition
 
 - b. Les membres ne pouvant pas être présent à l'Assemblée Générale pour cause d'un stage, d'un échange ou d'une charge de travaux pratiques peuvent faire un vote par procuration. La personne qui vote par procuration doit fournir un papier signé autorisant le mandataire à voter en son nom et la personne qui donne son vote doit en aviser un membre du conseil exécutif avant le jour de l'assemblée générale;
 
-- c. Dans le cas d'une demande de procuration pour une raison non spécifiée dans l'article 18 b, l'étudiant désirant être représenté doit faire une demande en personne à un membre du conseil l'exécutif entre 5 jours avant et la veille de l'assemblée générale. Le conseil exécutif se réunira avant l'assemblée générale dans le but de valider les demandes;
+- Dans le cas d'une demande de procuration pour une raison non spécifiée dans l'article 18 b, l'étudiant désirant être représenté doit faire une demande en personne à un membre du conseil l'exécutif entre 5 jours avant et la veille de l'assemblée générale. Le conseil exécutif se réunira avant l'assemblée générale dans le but de valider les demandes;
 
 - d. Le président doit être averti de toute procuration avant l'ouverture de l'assemblée générale;
 
@@ -166,7 +170,7 @@ Article 19 : Droits de vote, de parole et de proposition
 
 - f. Les observateurs ont seulement le droit de parole;
 
-- g.Le président et le secrétaire de l'assemblée n'ont ni droit de vote, ni droit de proposition. Ils sont limités dans leurs interventions à ce qui est défini dans le code de procédure prescrit à l'article 11 de la présente charte.
+- Le président et le secrétaire de l'assemblée n'ont ni droit de vote, ni droit de proposition. Ils sont limités dans leurs interventions à ce qui est défini dans le code de procédure prescrit à l'article 11 de la présente charte.
 
 Article 20 : Ordre du jour
 
@@ -192,7 +196,7 @@ Article 22 : Élection du conseil exécutif
 
 - f. Lorsque tous les candidats à une même charge ont été mis en nomination, le président des élections déclare les nominations closes;
 
-- g. Les élections se font dans l'ordre suivant : Président, Vice-Président interne, Trésorier, Vice-Président aux affaires externes, Coordonnateur à la vie étudiante 3e année, Coordonnateur à la vie étudiante 2e année, Coordonnateur à la vie étudiante aux activités socioculturelles, Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant;
+- Les élections se font dans l'ordre suivant :
 
 - h. Chacun des postes est soumis à un vote à majorité simple. Une chaise est présentée contre le ou les candidats. Un candidat défait peut se présenter à un autre poste;
 
@@ -200,7 +204,7 @@ Article 22 : Élection du conseil exécutif
 
 - j. Les votes sont comptés par le président et le secrétaire des élections;
 
-- k. Les modalités de composition du conseil exécutif sont définies par l'article 23 et 29 de la présente charte.
+- Les modalités de composition du conseil exécutif sont définies par l'article 23
 
 Article 23 : Autres élections
 
@@ -222,7 +226,7 @@ Article 24 : Membres du conseil exécutif
 
 - b. Les six (6) membres 1re année du conseil exécutif sont élus lors de l'assemblée générale automnale;
 
-- c. Les modalités d'élection du conseil exécutif sont définies par les articles 21 et 22 de la présente charte.
+- Les six (6) membres 1re année du conseil exécutif sont élus lors de l'assemblée générale automnale;
 
 Article 25 : Représentants à l'assemblée départementale
 
@@ -242,7 +246,7 @@ Article 27 : Référendum
 
 - d. Les modalités de déroulement du référendum doivent être adoptées par les demandeurs et affichées avant le début du déroulement du scrutin;
 
-- e. La décision est prise à majorité simple, et cette majorité doit correspondre à 20 % ou plus des membres;
+- Les modalités de déroulement du référendum doivent être adoptées par les demandeurs et affichées avant le début du déroulement du scrutin;
 
 - f. Le résultat du référendum devient la position de l'A.E.M.S.U.M. sur le sujet concerné.
 
@@ -270,125 +274,129 @@ Article 29 : Rôle
 
 Article 30 : Composition
 
-- a. Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 32 occupent des rôles seniors consultatifs. Le niveau est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min (⌊n/2⌋+1, 3))
+- Le conseil exécutif est composé de seize (16) membres, soit six (6) postes première année, élus à l'assemblée générale automnale, huit (8) postes répartis en un poste (1) deuxième année, un (1) poste troisième année, sept (7) postes seniors, ouverts aux étudiants de deuxième année et plus, et un (1) président, élus lors de l'assemblée générale annuelle. De plus, trois personnes dont le mode de sélection et les rôles sont précisés à l'article 32 occupent des rôles seniors consultatifs. Le niveau est défini par le minimum entre la partie entière de la moitié du nombre de sessions d'automne et d'hiver complétées au moment de l'entrée en mandat, plus un et 3 : min (⌊n/2⌋+1, 3))
 
 - b. Si aucun candidat du niveau d'étude associé au poste ne se présente, il est ouvert à tous les membres.
 
-- c. Les postes sont, dans l'ordre, les suivants : Président, Vice-Président délégué aux affaires internes, Trésorier, VicePrésident aux affaires externes, Coordonnateur à la vie étudiante 3<sup>e</sup> année, Coordonnateur à la vie étudiante 2<sup>e</sup> année, Coordonnateur à la vie étudiante aux activités socioculturelles, Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant, Délégué aux affaires internes 1<sup>re</sup> année, Coordonnateur à la vie étudiante 1<sup>re</sup> année, Coordonnateur à la vie étudiante aux activités socioculturelles 1re année, Délégué aux affaires externes 1<sup>re</sup> année, Délégué aux affaires académiques 1<sup>re</sup> année, Responsable du café étudiant 1<sup>re</sup> année;
+- Les postes sont, dans l'ordre, les suivants :
 
-- d. Le conseil exécutif peut, selon son bon vouloir, changer les postes, cependant la réorganisation devra être approuvée à la première assemblée générale suivant cette réorganisation.
+Président, Vice-Président délégué aux affaires internes, Trésorier, VicePrésident aux affaires externes, Coordonnateur à la vie étudiante 3<sup>e</sup> année, Coordonnateur à la vie étudiante 2<sup>e</sup> année, Coordonnateur à la vie étudiante aux activités socioculturelles, Coordonnateur aux affaires professionnelles, Délégué aux affaires académiques, Responsable du café étudiant, Délégué aux affaires internes 1<sup>re</sup> année, Coordonnateur à la vie étudiante 1<sup>re</sup> année, Coordonnateur à la vie étudiante aux activités socioculturelles 1re année, Délégué aux affaires externes 1<sup>re</sup> année, Délégué aux affaires académiques 1<sup>re</sup> année, Responsable du café étudiant 1<sup>re</sup> année;
 
-Article 30 : Responsabilités des membres du conseil exécutif
+- Le conseil exécutif peut, selon son bon vouloir, changer les postes, cependant la réorganisation devra être approuvée à la première assemblée générale suivant cette réorganisation.
 
 - a. Président :
 
-  - Préside les réunions du conseil exécutif et en prépare l'ordre du jour;
+- Président :
 
-  - Porte-parole de l'A.E.M.S.U.M.;
+- - Préside les réunions du conseil exécutif et en prépare l'ordre du jour;
 
-  - Ratifie de sa signature tout document qui engage l'A.E.M.S.U.M.;
+- - Porte-parole de l'A.E.M.S.U.M.;
 
-  - Siège à l'assemblée départementale;
+- - Ratifie de sa signature tout document qui engage l'A.E.M.S.U.M.;
 
-  - Coordonne les activités de l'A.E.M.S.U.M.;
+- - Siège à l'assemblée départementale;
 
-  - S'assure que l'A.E.M.S.U.M. soit représentée dans les diverses instances où elle siège;
+- - Coordonne les activités de l'A.E.M.S.U.M.;
 
-  - Siège au comité du café du pavillon André-Aisenstadt et/ou s'assure qu'un membre du conseil exécutif, qui n'est pas représentant café, y siège;
+- - S'assure que l'A.E.M.S.U.M. soit représentée dans les diverses instances où elle siège;
 
-  - Peut ratifier de sa signature les chèques de l'A.E.M.S.U.M.;
+- - Siège au comité du café du pavillon André-Aisenstadt et/ou s'assure qu'un membre du conseil exécutif, qui n'est pas représentant café, y siège;
 
-  - S'assure qu'un membre du conseil exécutif rédige les procès-verbaux et prenne les présences;
+- - Peut ratifier de sa signature les chèques de l'A.E.M.S.U.M.;
 
-  - Est coresponsable avec les vice-présidents de toutes tâches non décrites dans ce document.
+- - S'assure qu'un membre du conseil exécutif rédige les procès-verbaux et prenne les présences;
 
-- b. Vice-président délégué aux affaires internes :
+- - Est coresponsable avec les vice-présidents de toutes tâches non décrites dans ce document.
 
-  - Trie le courrier (postal et internet) de l'A.E.M.S.U.M.;
+- Vice-président délégué aux affaires internes:
 
-  - Assure la mobilisation des membres de l'A.E.M.S.U.M.;
+- - Trie le courrier (postal et internet) de l'A.E.M.S.U.M.;
 
-  - Responsable de l'information et de la bonne participation des membres à toutes les activités relatives à la vie étudiante de l'A.E.M.S.U.M. , excluant les activités sportives du campus.;
+- - Assure la mobilisation des membres de l'A.E.M.S.U.M.;
 
-  - Responsable de la gestion des permis d'alcool de l'A.E.M.S.U.M.;
+- - Responsable de l'information et de la bonne participation des membres à toutes les activités relatives à la vie étudiante de l'A.E.M.S.U.M. , excluant les activités sportives du campus.;
 
-  - S'occupe du matériel promotionnel de l'A.E.M.S.U.M.;
+- - Responsable de la gestion des permis d'alcool de l'A.E.M.S.U.M.;
 
-  - Assiste les CVE dans la vente de billets pour les événements de l'A.E.M.S.U.M.;
+- - S'occupe du matériel promotionnel de l'A.E.M.S.U.M.;
 
-  - Supervise les tâches des CVE;
+- - Assiste les CVE dans la vente de billets pour les événements de l'A.E.M.S.U.M.;
 
-  - Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
+- - Supervise les tâches des CVE;
 
-  - Assiste aux congrès de la FAÉCUM.
+- - Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
 
-  - Gère le tri des matières résiduelles au local de l'association étudiante
+- - Assiste aux congrès de la FAÉCUM.
 
-- c. Délégué 1re année aux affaires internes:
+- - Gère le tri des matières résiduelles au local de l'association étudiante
 
-  - S'occupe de la gestion des médias sociaux et s'assure de mises à jour régulières;
+- Délégué 1re année aux affaires internes:
 
-  - Crée et promeut les événements de l'A.E.M.S.U.M. sur les réseaux sociaux;
+- - S'occupe de la gestion des médias sociaux et s'assure de mises à jour régulières;
 
-  - Tient les membres au courant des activités de l'A.E.M.S.U.M.;
+- - Crée et promeut les événements de l'A.E.M.S.U.M. sur les réseaux sociaux;
 
-  - Gère la prise, le tri et la publication de photos et de vidéos pour l'A.E.M.S.U.M.;
+- - Tient les membres au courant des activités de l'A.E.M.S.U.M.;
 
-  - Sert d'intermédiaire entre les membres de l'A.E.M.S.U.M en première année et le conseil exécutif;
+- - Gère la prise, le tri et la publication de photos et de vidéos pour l'A.E.M.S.U.M.;
 
-  - Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
+- - Sert d'intermédiaire entre les membres de l'A.E.M.S.U.M en première année et le conseil exécutif;
 
-  - Assiste la personne déléguée aux affaires internes senior dans ses tâches
+- - Assure la production de procès-verbaux lors des diverses instances de l'A.E.M.S.U.M.;
 
-- d. Trésorier :
+- - Assiste la personne déléguée aux affaires internes senior dans ses tâches
 
-  - Assume la bonne tenue des livres comptables de l'A.E.M.S.U.M.;
+d. Trésorier :
 
-  - Produit les états financiers de l'A.E.M.S.U.M.;
+- - Assume la bonne tenue des livres comptables de l'A.E.M.S.U.M.;
 
-  - Est signataire des chèques de l'A.E.M.S.U.M.;
+- - Produit les états financiers de l'A.E.M.S.U.M.;
 
-  - Assure quotidiennement le suivi des dépenses de l'A.E.M.S.U.M. et récolte les factures;
+- - Est signataire des chèques de l'A.E.M.S.U.M.;
 
-  - S'assure que les dépôts soient faits régulièrement;
+- - Assure quotidiennement le suivi des dépenses de l'A.E.M.S.U.M. et récolte les factures;
 
-  - Responsable des cotisations étudiantes;
+- - S'assure que les dépôts soient faits régulièrement;
 
-  - S'assure que la petite caisse soit adéquate.
+- - Responsable des cotisations étudiantes;
 
-- e. Vice-président aux affaires externes et Délégué 1re année aux affaires externes :
+- - S'assure que la petite caisse soit adéquate.
 
-  - Responsable des relations de l'A.E.M.S.U.M. avec les organismes externes;
+- Vice-président aux affaires externes et Délégué 1re année aux affaires externes :
 
-  - Responsable de l'information reliée à ce secteur;
+- - Responsable des relations de l'A.E.M.S.U.M. avec les organismes externes;
 
-  - Siège au conseil central et au congrès de la F.A.É.C.U.M.;
+- - Responsable de l'information reliée à ce secteur;
 
-  - Donne un compte-rendu au conseil exécutif de ces réunions.
+- - Siège au conseil central et au congrès de la F.A.É.C.U.M.;
 
-  - Assument les responsabilités du Président en l'absence de celui-ci;
+- - Donne un compte-rendu au conseil exécutif de ces réunions.
 
-  - S'assurent de la légalité de tout document et toutes démarches entreprises par l'A.E.M.S.U.M.;
+- - Assument les responsabilités du Président en l'absence de celui-ci;
 
-  - Assistent les autres membres du conseil exécutif dans leurs fonctions;
+- - S'assurent de la légalité de tout document et toutes démarches entreprises par l'A.E.M.S.U.M.;
 
-  - Peuvent ratifier de leurs signatures respectives les chèques de l'A.E.M.S.U.M.;
+- - Assistent les autres membres du conseil exécutif dans leurs fonctions;
 
-  - Sont coresponsable avec le président de toutes tâches non décrites dans ce document.
+- - Peuvent ratifier de leurs signatures respectives les chèques de l'A.E.M.S.U.M.;
 
-- f. Coordonnateurs à la vie étudiante et Coordonnateur 1re année à la vie étudiante :
+- - Sont coresponsable avec le président de toutes tâches non décrites dans ce document.
+
+- Coordonnateurs à la vie étudiante et Coordonnateur 1re année à la vie étudiante :
 
   - Responsables de l'organisation des activités sociales de l'A.E.M.S.U.M.;
 
   - Coordonnent les activités de la rentrée;
 
-  - Responsables de l'information reliée à ce secteur;
+- Responsables de l'information reliée à ce secteur;
 
   - Siègent au conseil de la vie étudiante de la F.A.É.C.U.M.;
 
   - Donnent un compte-rendu au conseil exécutif de ces réunions.
 
-- g. Coordonnateur à la vie étudiante aux activités socioculturelles et Coordonnateur à la vie étudiante aux activités socioculturelles 1re année :
+g. Coordonnateur à la vie étudiante aux activités socioculturelles et
+
+Coordonnateur à la vie étudiante aux activités socioculturelles 1re année
 
   - S'assurent que les activités proposées par l'A.E.M.S.U.M. soient variées et viennent rejoindre les intérêts des membres;
 
@@ -396,27 +404,20 @@ Article 30 : Responsabilités des membres du conseil exécutif
 
   - S'engagent à offrir des activités sans alcool.
 
-- h. Coordonnateur aux affaires professionnelles :
-  
+- Coordonnateur aux affaires professionnelles
   - S'occupe de la tenue à jour de la politique des commandites de l'A.E.M.S.U.M.;
-  
   - S'occupe de contacter des compagnies, organismes, ou autres organisations qui sont des employeurs potentiels pour les membres de l'A.E.M.S.U.M.;
 
   - S'assurent que les activités proposées par l'A.E.M.S.U.M. soient variées et viennent rejoindre les intérêts des membres de toutes les orientations;
-
   - Responsables de l'organisation et de la promotion des activités professionnelles de l'A.E.M.S.U.M., en priorisant les activités qui favorise les stages et le réseautage;
-
   - Responsables de l'information reliée à ce secteur;
-
-- i. Responsable du café étudiant et responsable du café étudiant 1re année :
-
-  - Siège au comité du café du pavillon André-Aisenstadt;
+- Responsable du café étudiant et responsable du café étudiant 1re année
 
   - S'assure de la légalité du café du pavillon André-Aisenstadt face aux gouvernements;
 
   - Pour toutes autres responsabilités liées aux tâches de représentant café, se référer à la charte du café;
 
-- j. Délégué aux affaires académiques et Délégué 1re année aux affaires académiques :
+- - Pour toutes autres responsabilités liées aux tâches de représentant café, se référer à la charte du café;
 
   - Responsables des questions touchant le secteur académique;
 
@@ -426,33 +427,25 @@ Article 30 : Responsabilités des membres du conseil exécutif
 
   - Siègent à l'assemblée départementale;
 
-  - Donnent un compte-rendu au conseil exécutif de ces réunions. 
-  
-Article 31 : Devoir des membres du conseil exécutif
+- - Donnent un compte-rendu au conseil exécutif de ces réunions. Article 31 : Devoir des membres du conseil exécutif
 
 - a. Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu d'assister à toutes les réunions du conseil exécutif, sauf pour des motifs hors de sa volonté;
 
-- b. Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu de laisser des traces des activités de l'A.E.M.S.U.M. pour les années suivantes;
-
-- c. Tout membre du conseil exécutif détenant les droits d'administrateur sur un compte ou une plateforme numérique au nom de l'A.E.M.S.U.M. (tels que Zeffy, Discord, Instagram, GitHub, etc.) doit effectuer la transition de ces droits vers le compte officiel de l'A.E.M.S.U.M. (<aemsum@dms.umontreal.ca>) ou vers le conseil exécutif entrant avant la fin de son mandat;
-
-- d. Dans la mesure du possible, tout compte ou plateforme numérique créé au nom de l'A.E.M.S.U.M. doit être administré à partir du compte officiel de l'A.E.M.S.U.M. (<aemsum@dms.umontreal.ca>) dès sa création.
+- Tout membre élu du conseil exécutif de l'A.E.M.S.U.M. est tenu de laisser des traces des activités de l'A.E.M.S.U.M. pour les années suivantes.
 
 Article 32 :
 
-- a. Trois personnes occupant déjà un poste exécutif rempliront aussi rôle de représentant d'orientation. Deux de ces représentants seront en charge des deux orientations les plus prévalentes chez les membres, et l'autre représentant sera en charge d'un regroupement des autres orientations.
+a. Trois personnes occupant déjà un poste exécutif rempliront aussi rôle de représentant d'orientation. Deux de ces représentants seront en charge des deux orientations les plus prévalentes chez les membres, et l'autre représentant sera en charge d'un regroupement des autres orientations.
 
-- b. Si plusieurs membres du conseil exécutif appartiennent à une même orientation (ou au regroupement d'orientations), on procède à un vote parmi ceux-ci pour choisir le représentant. Si un seul membre du conseil appartient à une orientation (ou au regroupement d'orientations), il est élu représentant par acclamation. Si aucun membre du conseil n'appartient à une orientation (ou au regroupement d'orientations), le représentant doit être élu parmi parmi les membres inscrits à cette orientation (ou à une des orientations du regroupement).
+b. Si plusieurs membres du conseil exécutif appartiennent à une même orientation (ou au regroupement d'orientations), on procède à un vote parmi ceux-ci pour choisir le représentant. Si un seul membre du conseil appartient à une orientation (ou au regroupement d'orientations), il est élu représentant par acclamation. Si aucun membre du conseil n'appartient à une orientation (ou au regroupement d'orientations), le représentant doit être élu parmi parmi les membres inscrits à cette orientation (ou à une des orientations du regroupement).
 
-- c. Les représentants tiennent les responsabilités suivantes :
+c. Les représentants tiennent les responsabilités suivantes :
 
-  - Conseiller l'A.E.M.S.U.M. dans les décisions ayant trait à des orientations spécifiques, et non à l'ensemble des membres;
-  
-  - Consulter les membres de son orientation sur des enjeux et rapporter leurs opinions au conseil exécutif;
-  
-  - Voter lors des décisions du comité exécutif qui concerne spécifiquement son orientation.
+- - Conseiller l'A.E.M.S.U.M. dans les décisions ayant trait à des orientations spécifiques, et non à l'ensemble des membres;
+    - Consulter les membres de son orientation sur des enjeux et rapporter leurs opinions au conseil exécutif;
+    - Voter lors des décisions du comité exécutif qui concerne spécifiquement son orientation.
 
-- d. SI le représentant occupe un poste au sein du conseil exécutif, il possède un total de deux votes lors des votes qui concernent spécifiquement son orientation. Si le représentant n'occupe pas de poste au sein du conseil exécutif, il possède un vote lors des votes spécifiques à son orientation et aucun lors des autres votes.
+d. SI le représentant occupe un poste au sein du conseil exécutif, il possède un total de deux votes lors des votes qui concernent spécifiquement son orientation. Si le représentant n'occupe pas de poste au sein du conseil exécutif, il possède un vote lors des votes spécifiques à son orientation et aucun lors des autres votes.
 
 - e. Le conseil exécutif décide des moments opportuns pour consulter les représentants et de quels votes concernent les représentants.
 
@@ -480,9 +473,7 @@ Article 37 : Réunions
 
 Le conseil exécutif doit se réunir au moins une fois à toutes les deux (2) semaines, durant les sessions d'automne et d'hiver.
 
-Article 36 : Huis clos 
-
-Les réunions du conseil exécutif peuvent se tenir à huis clos si un vote des deux tiers (2/3), c'est \-à-dire la partie entière de deux tiers (2/3) des membres présents en décident ainsi.
+Article 36 : Huis clos Les réunions du conseil exécutif peuvent se tenir à huis clos si un vote des deux tiers (2/3), c'est \-à-dire la partie entière de deux tiers (2/3) des membres présents en décident ainsi.
 
 Article 39 : Durée du mandat
 
@@ -502,9 +493,9 @@ Article 42 : Destitution
 
 - b. Il est le devoir du conseil exécutif de prendre en notes les présences aux réunions;
 
-- c. La décision de destitution est prise soit par le conseil exécutif par un vote des deux tiers (2/3), c'est-à-dire la partie entière de deux tiers (2/3) de tous les membres du conseil exécutif à l'exception de la personne concernée, soit lors d'une assemblée générale spéciale avec le vote des deux tiers (2/3) des membres présents;
+- La décision de destitution est prise soit par le conseil exécutif par un vote des deux tiers (2/3), c'est-à-dire la partie entière de deux tiers (2/3) de tous les membres du conseil exécutif à l'exception de la personne concernée, soit lors d'une assemblée générale spéciale avec le vote des deux tiers (2/3) des membres présents;
 
-- d. Cette décision devient effective immédiatement après le vote.
+- Cette décision devient effective immédiatement après le vote.
 
 Article 43 : Élection partielle
 
@@ -512,9 +503,11 @@ Une fois la répartition des postes entre les membres du conseil exécutif étab
 
 Article 44 : Dissolution du conseil exécutif
 
-- a. La dissolution du conseil exécutif est décidée par voie référendaire. Les modalités d'un tel référendum sont définies par l'article 26 de la présente charte;
+- La dissolution du conseil exécutif est décidée par voie référendaire. Les
 
-- b. Les demandeurs du référendum ont la charge de convoquer une assemblée générale spéciale où il y aura élection du nouveau conseil exécutif. Les modalités d'élection sont définies par l'article 21 de la présente charte.
+modalités d'un tel référendum sont définies par l'article 26 de la présente charte;
+
+- Les demandeurs du référendum ont la charge de convoquer une assemblée générale spéciale où il y aura élection du nouveau conseil exécutif. Les modalités d'élection sont définies par l'article 21 de la présente charte.
 
 CHAPITRE V : PARTICIPATION AUX INSTANCES
 
@@ -540,9 +533,9 @@ Article 49 : Destitution
 
 - a. Un représentant à l'assemblée départementale peut être destitué s'il ne remplit pas les obligations inhérentes à son poste ou s'il s'absente à trois assemblées sans raison valable aux yeux du conseil exécutif;
 
-- b. La décision de destitution est prise soit par le conseil exécutif par un vote des deux tiers (2/3), c'est-à-dire la partie entière de deux tiers (2/3) de tous les membres du conseil exécutif, soit lors d'une assemblée générale spéciale avec le vote des deux tiers (2/3) des membres présents;
+- La décision de destitution est prise soit par le conseil exécutif par un vote des deux tiers (2/3), c'est-à-dire la partie entière de deux tiers (2/3) de tous les membres du conseil exécutif, soit lors d'une assemblée générale spéciale avec le vote des deux tiers (2/3) des membres présents;
 
-- c. Cette décision devient effective immédiatement après le vote.
+- Cette décision devient effective immédiatement après le vote.
 
 CHAPITRE VI : COMITÉS
 
@@ -556,7 +549,7 @@ Article 51 : Bénévoles
 
 - a. Tout membre de l'A.E.M.S.U.M. peut être bénévole;
 
-- b. Le bénévole est redevable devant le comité du café du pavillon AndréAisenstadt;
+- Tout membre de l'A.E.M.S.U.M. peut être bénévole;
 
 - c. Chaque membre du conseil exécutif doit être bénévole au café du pavillon André-Aisenstadt;
 
@@ -584,7 +577,7 @@ Article 56 : Dispositions financières
 
 - a. Le comité des finissants est tenu de présenter des états financiers complets à la dernière réunion de la session d'hiver du conseil exécutif ou sur demande de ce dernier;
 
-- b. Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
+- Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
 
 Section 3 : Comité d'activités d'accueil
 
@@ -600,81 +593,84 @@ Article 59 : Formation
 
 - a. Le comité d'activités d'accueil est formé lors de l'assemblée générale annuelle. Il est ouvert à tous, chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
-- b. Au moins un des Coordonnateurs à la vie étudiante élu à l'assemblée générale annuelle doit siéger sur ce comité.
+- Au moins un des Coordonnateurs à la vie étudiante élu à l'assemblée
 
-Article 58 : Responsabilités
+générale annuelle doit siéger sur ce comité.
 
-Les membres du comité d'activités d'accueil remplissent collectivement les fonctions définies à l'article 54 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
+Les membres du comité d'activités d'accueil remplissent collectivement les fonctions définies à l'article 57 de la présente charte, voient à la préparation des états financiers complets du comité et assurent le recrutement du plus grand nombre de participants aux activités du comité.
 
-Article 59 : Dispositions financières
+Article 61 : Dispositions financières
 
 - a. Le comité d'activités d'accueil est tenu de présenter des états financiers complets à la première réunion de la session d'automne du conseil exécutif ou sur demande de ce dernier;
 
-- b. Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
+- Le comité d'activités d'accueil est tenu de présenter des états financiers complets à la première réunion de la session d'automne du conseil exécutif ou sur demande de ce dernier;
 
-Section 4 : Comité *L'Axiomatique*
+- Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
 
-Article 62 : Fonctions
+Section 4 : Comité _L'Axiomatique_
 
-*L'Axiomatique* est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
+Article 60 : Fonctions
 
-Article 63 : Subordination
+_L'Axiomatique_ est le journal étudiant officiel de l'A.E.M.S.U.M. Le comité assure la création et la publication mensuelle d'un journal destiné à tous les membres de l'A.E.M.S.U.M. Le journal se doit d'être inclusif et rassembleur.
 
-Le comité *L'Axiomatique* est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
+Article 61 : Subordination
 
-Article 64 : Formation
+Le comité _L'Axiomatique_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
-- a. Le comité *L'Axiomatique* est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
+Article 62 : Formation
 
-- b. Au moins un membre du conseil exécutif doit être membre du comité *L'Axiomatique*;
+- Le comité _L'Axiomatique_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceux-ci ayant droit de vote, de proposition et de parole;
 
-- c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
+- Au moins un membre du conseil exécutif doit être membre du comité _L'Axiomatique_;
 
-Article 65 : Responsabilités
+- Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
-- a. Un membre du conseil exécutif se charge de faire le lien entre le comité et le conseil exécutif.
+Article 63 : Responsabilités
 
-- b. Le comité se charge d'établir les responsabilités de chacun de ses membres. Celles-ci incluent notamment la rédaction, la mise en page, la correction et la photographie.
+- Un membre du conseil exécutif se charge de faire le lien entre le comité et le
 
-Article 64 : Dispositions financières
+conseil exécutif.
 
-- a. Le comité *L'Axiomatique* est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
+- Le comité se charge d'établir les responsabilités de chacun de ses membres. Celles-ci incluent notamment la rédaction, la mise en page, la correction et la photographie.
 
-- b. Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
+- b. Le conseil exécutif possède à tout moment mainmise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-à-dire la partie entière des trois quarts (3/4) des membres présents.
 
-Section 5 : Comité *Humains d'Aisenstadt*
+- Le comité _L'Axiomatique_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
-Article 67 : Fonctions
+- Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-àdire la partie entière des trois quarts (3/4) des membres présents.
 
-*Humains d'Aisenstadt* est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
+Section 5 : Comité _Humains d'Aisenstadt_
 
-Article 68 : Subordination
+Article 65 : Fonctions
 
-Le comité *Humains d'Aisenstadt* est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
+_Humains d'Aisenstadt_ est une initiative visant à mettre de l'avant la diversité des parcours de la population fréquentant le pavillon André-Aisenstadt. Le comité assure la production régulière sur les réseaux sociaux de contenu inclusif, rassembleur et représentatif.
 
-Article 67 : Formation
+Article 66 : Subordination
 
-- a. Le comité _Humains d'Ainsenstadt_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceuxci ayant droit de vote, de proposition et de parole;
+Le comité _Humains d'Aisenstadt_ est autonome envers les autres comités. Il est redevable devant le conseil exécutif, mais sa gestion quotidienne est autonome.
 
 - b. Au moins un membre du conseil exécutif doit être membre du comité *Humains d'Aisenstadt*.
 
-- c. Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
+- Le comité _Humains d'Ainsenstadt_ est formé lors de l'assemblée générale annuelle. Il est ouvert à tous les membres de l'A.E.M.S.U.M., chacun de ceuxci ayant droit de vote, de proposition et de parole;
 
-Article 68 : Responsabilités
+- Au moins un membre du conseil exécutif doit être membre du comité _Humains d'Aisenstadt_.
 
-- a. Un membre du conseil exécutif se charge de faire le lien entre le comité et le conseil exécutif.
+- Tout membre de l'A.E.M.S.U.M. peut se joindre au comité au courant de l'année, à condition d'obtenir l'appui de l'ensemble des membres faisant déjà partie du comité.
 
 - b. Le comité se charge d'établir les responsabilités de chacun de ses membres.
 
-Article 71 : Dispositions financières
+- Un membre du conseil exécutif se charge de faire le lien entre le comité et le conseil exécutif.
+- Le comité se charge d'établir les responsabilités de chacun de ses membres.
 
-- a. Le comité *Humains d'Aisenstadt* est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
+Article 69 : Dispositions financières
 
-- b. Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-à-dire la partie entière des trois quarts (3/4) des membres présents.
+- Le comité _Humains d'Aisenstadt_ est tenu de présenter ses états financiers complets au conseil exécutif sur demande de ce dernier;
 
-Section 6 : Comité *Équité, diversité et inclusion*
+- Le conseil exécutif possède à tout moment main mise sur les biens du comité s'il juge d'une mauvaise gestion par vote des trois quarts (3/4), c'est-à-dire la partie entière des trois quarts (3/4) des membres présents.
 
-Article 72 : Fonctions
+Section 6 : Comité _Équité, diversité et inclusion_
+
+Article 70 : Fonctions
 
 Le comité EDI est une initiative visant à promouvoir l'équité, la diversité et l'inclusion au sein du département et des activités associatives.
 
