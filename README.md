@@ -34,9 +34,7 @@ CHAPITRE I : DISPOSITIONS GÉNÉRALES
 
 Article 1 : Nom
 
-Association des étudiants de Mathématiques et Statistique du premier cycle de l'Université de Montréal. Cette association s'est incorporée en
-
-1982 (en vertu de la troisième partie de la Loi sur les compagnies) et accréditée en 1983 (en vertu de l'**article 59** de la Loi 32 sur l'accréditation et le financement des Associations étudiantes).
+Association des étudiants de Mathématiques et Statistique du premier cycle de l'Université de Montréal. Cette association s'est incorporée en 1982 (en vertu de la troisième partie de la Loi sur les compagnies) et accréditée en 1983 (en vertu de l'**article 59** de la Loi 32 sur l'accréditation et le financement des Associations étudiantes).
 
 Article 2 : Sigle
 
